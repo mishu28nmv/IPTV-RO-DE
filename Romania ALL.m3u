@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ro.xml", url-tvg="https://iptv-epg.org/files/epg-us.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ro.xml"
 
 #EXTINF:-1,Antena 1 SD
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70429

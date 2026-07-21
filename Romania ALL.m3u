@@ -1,0 +1,1875 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ro.xml", url-tvg="https://iptv-epg.org/files/epg-us.xml"
+
+#EXTINF:-1,Antena 1 SD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70429
+
+#EXTINF:-1,Antena 1 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9051
+ 
+#EXTINF:-1,Antena 1 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8970
+ 
+#EXTINF:-1,Antena 1 2K
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8971
+ 
+#EXTINF:-1,Antena 1 4K
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/13180
+ 
+#EXTINF:-1,Antena 1 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70447
+ 
+#EXTINF:-1,Pro TV SD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70428
+ 
+#EXTINF:-1,Pro TV HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9048
+ 
+#EXTINF:-1,Pro TV FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8968
+ 
+#EXTINF:-1,Pro TV 2K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9394
+ 
+#EXTINF:-1,Pro Tv 4K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/13181
+ 
+#EXTINF:-1,Pro TV HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70448
+ 
+#EXTINF:-1,Pro TV FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8969
+ 
+#EXTINF:-1,Kanal D SD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70427
+ 
+#EXTINF:-1,Kanal D HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9064
+ 
+#EXTINF:-1,Kanal D FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9395
+ 
+#EXTINF:-1,Kanal D 2K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8974
+ 
+#EXTINF:-1,Kanal D 4K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8975
+ 
+#EXTINF:-1,Kanal D HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70449
+ 
+#EXTINF:-1,Kanal D2 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9062
+ 
+#EXTINF:-1,Kanal D2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/54195
+ 
+#EXTINF:-1,Kanal D2 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70494
+ 
+#EXTINF:-1,Digi 4K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8979
+ 
+#EXTINF:-1,Prima TV SD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9063
+ 
+#EXTINF:-1,Prima TV FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/24842
+ 
+#EXTINF:-1,Prima TV HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70493
+ 
+#EXTINF:-1,Prima Comedy 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31386
+ 
+#EXTINF:-1,TVR 1 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9058
+ 
+#EXTINF:-1,TVR 1 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8977
+ 
+#EXTINF:-1,TVR 2 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9059
+ 
+#EXTINF:-1,TVR 2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8978
+ 
+#EXTINF:-1,TVR 3 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9060
+ 
+#EXTINF:-1,TVR 3 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31413
+ 
+#EXTINF:-1,ProTV International 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9049
+ 
+#EXTINF:-1,Antena 3 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9053
+ 
+#EXTINF:-1,Antena 3 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8973
+ 
+#EXTINF:-1,Antena 3 4K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31848
+ 
+#EXTINF:-1,Antena Stars HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9052
+ 
+#EXTINF:-1,Antena Stars FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8972
+ 
+#EXTINF:-1,Antena Monden 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/54246
+ 
+#EXTINF:-1,Digi 24 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9130
+ 
+#EXTINF:-1,Digi 24 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8980
+ 
+#EXTINF:-1,Digi 24 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/10872
+ 
+#EXTINF:-1,Digi 24 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70450
+ 
+#EXTINF:-1,Realitatea Plus 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9132
+ 
+#EXTINF:-1,Realitatea Plus HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37911
+ 
+#EXTINF:-1,RomaniaTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9131
+ 
+#EXTINF:-1,Romania Tv FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/54243
+ 
+#EXTINF:-1,B1 TV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37903
+ 
+#EXTINF:-1,B1 TV HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9066
+ 
+#EXTINF:-1,Euronews RO 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31410
+ 
+#EXTINF:-1,Euronews RO FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/32363
+ 
+#EXTINF:-1,Prima News FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/50130
+ 
+#EXTINF:-1,Global News Ro 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/53521
+ 
+#EXTINF:-1,ProTv News FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/28109
+ 
+#EXTINF:-1,TVR Sport FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/59935
+ 
+#EXTINF:-1,Digi Sport 1 4K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82437
+ 
+#EXTINF:-1,Digi Sport 1 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82433
+ 
+#EXTINF:-1,Digi Sport 1 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82429
+ 
+#EXTINF:-1,Digi 
+https://static.epgguide.net/icon/digisport1.ro.png",Digi
+ 
+#EXTINF:-1,Digi Sport 2 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82434
+ 
+#EXTINF:-1,Digi Sport 2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82430
+ 
+#EXTINF:-1,Digi Sport 2 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82439
+ 
+#EXTINF:-1,Digi Sport 3 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82435
+ 
+#EXTINF:-1,Digi Sport 3 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82431
+ 
+#EXTINF:-1,Digi Sport 3 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82440
+ 
+#EXTINF:-1,Digi Sport 4 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82436
+ 
+#EXTINF:-1,Digi Sport 4 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82432
+ 
+#EXTINF:-1,Digi Sport 4 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82441
+ 
+#EXTINF:-1,Eurosport 4K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/17995
+ 
+#EXTINF:-1,EuroSport1 Romania FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70382
+ 
+#EXTINF:-1,EuroSport 1 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70387
+ 
+#EXTINF:-1,EuroSport 1 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70385
+ 
+#EXTINF:-1,EuroSport 2 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70384
+ 
+#EXTINF:-1,EuroSport 2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70388
+ 
+#EXTINF:-1,Prima 4K 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/19319
+ 
+#EXTINF:-1,Prima Sport 1 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9106
+ 
+#EXTINF:-1,Prima Sport 1 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31399
+ 
+#EXTINF:-1,Prima Sport 1 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70495
+ 
+#EXTINF:-1,Prima Sport 2 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9105
+ 
+#EXTINF:-1,Prima Sport 2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9003
+ 
+#EXTINF:-1,Prima Sport 2 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70496
+ 
+#EXTINF:-1,Prima Sport 3 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30431
+ 
+#EXTINF:-1,Prima Sport 3 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9005
+ 
+#EXTINF:-1,Prima Sport 3 HDR  (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70497
+ 
+#EXTINF:-1,Prima Sport 4 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9004
+ 
+#EXTINF:-1,Prima Sport 4 HDR (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70498
+ 
+#EXTINF:-1,Prima Sport 5 HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37928
+ 
+#EXTINF:-1,Prima Sport 5 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37842
+ 
+#EXTINF:-1,Prima Sport 5 HDR  (Net Bun) 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70499
+ 
+#EXTINF:-1,Sport Extra FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/29052
+ 
+#EXTINF:-1,Pro Arena 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9104
+ 
+#EXTINF:-1,Pro Arena FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9006
+ 
+#EXTINF:-1,Trace Sports Star HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30384
+ 
+#EXTINF:-1,Motor Vision 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/58768
+ 
+#EXTINF:-1,FightBox 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9109
+ 
+#EXTINF:-1,Film Mania FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70445
+ 
+#EXTINF:-1,SkyShowtime 1 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70412
+ 
+#EXTINF:-1,SkyShowtime 2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70413
+ 
+#EXTINF:-1,HBO 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9067
+ 
+#EXTINF:-1,HBO FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8983
+ 
+#EXTINF:-1,HBO 2 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9068
+ 
+#EXTINF:-1,HBO 2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8984
+ 
+#EXTINF:-1,HBO 3 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9069
+ 
+#EXTINF:-1,HBO 3 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8985
+ 
+#EXTINF:-1,Cinemax 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9088
+ 
+#EXTINF:-1,Cinemax FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8988
+ 
+#EXTINF:-1,Cinemax 2 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9089
+ 
+#EXTINF:-1,Cinemax 2 FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31388
+ 
+#EXTINF:-1,AMC 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9077
+ 
+#EXTINF:-1,AMC FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31382
+ 
+#EXTINF:-1,AXN 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9080
+ 
+#EXTINF:-1,AXN FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8981
+ 
+#EXTINF:-1,AXN White 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9081
+ 
+#EXTINF:-1,AXN Black 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9082
+ 
+#EXTINF:-1,AXN Spin 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9083
+ 
+#EXTINF:-1,Film Now 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9070
+ 
+#EXTINF:-1,Film Now FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8982
+ 
+#EXTINF:-1,Film Cafe 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9075
+ 
+#EXTINF:-1,Film Cafe FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31396
+ 
+#EXTINF:-1,FilmBox 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9090
+ 
+#EXTINF:-1,FilmBox Family 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9091
+ 
+#EXTINF:-1,Filmbox Stars 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31397
+ 
+#EXTINF:-1,FilmBox Extra HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8986
+ 
+#EXTINF:-1,BollywoodTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9084
+ 
+#EXTINF:-1,Bollyood Film 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/54111
+ 
+#EXTINF:-1,BollyoodTv FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31383
+ 
+#EXTINF:-1,Bollyood Classic 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31384
+ 
+#EXTINF:-1,Comedy Central 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9087
+ 
+#EXTINF:-1,Comedy Central FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31389
+ 
+#EXTINF:-1,Epic Drama 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30424
+ 
+#EXTINF:-1,Epic Drama FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8987
+ 
+#EXTINF:-1,Acasa TV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9074
+ 
+#EXTINF:-1,Acasa Tv FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8976
+ 
+#EXTINF:-1,Acasa Gold 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9072
+ 
+#EXTINF:-1,Acasa Gold FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31405
+ 
+#EXTINF:-1,Happy 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9078
+ 
+#EXTINF:-1,Happy FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8989
+ 
+#EXTINF:-1,Pro Cinema 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9071
+ 
+#EXTINF:-1,Pro Cinema FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31404
+ 
+#EXTINF:-1,Warner Tv 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31415
+ 
+#EXTINF:-1,Warner TV HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37924
+ 
+#EXTINF:-1,TV1000 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9073
+ 
+#EXTINF:-1,TLC 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9120
+ 
+#EXTINF:-1,TLC FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37925
+ 
+#EXTINF:-1,TDC 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9079
+ 
+#EXTINF:-1,TDC FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/8990
+ 
+#EXTINF:-1,Cinemaraton 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9094
+ 
+#EXTINF:-1,Cinemaraton HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31387
+ 
+#EXTINF:-1,Diva Universal 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9086
+ 
+#EXTINF:-1,E! Entertainment FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9016
+ 
+#EXTINF:-1,E! Enterteinment 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30423
+ 
+#EXTINF:-1,Prima Food & Travel FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70414
+ 
+#EXTINF:-1,Discovery Channel 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30421
+ 
+#EXTINF:-1,Discovery Channel FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9007
+ 
+#EXTINF:-1,Discovery Investigation 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9124
+ 
+#EXTINF:-1,Digi Animal World 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/13583
+ 
+#EXTINF:-1,Digi Animal World FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31390
+ 
+#EXTINF:-1,Digi World 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9114
+ 
+#EXTINF:-1,Digi World FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31392
+ 
+#EXTINF:-1,Digi Life 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9113
+ 
+#EXTINF:-1,Digi Life FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31391
+ 
+#EXTINF:-1,National Geographic 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9115
+ 
+#EXTINF:-1,National Geographic FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9010
+ 
+#EXTINF:-1,National Geographic Wild 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9116
+ 
+#EXTINF:-1,National Geographic Wild FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9011
+ 
+#EXTINF:-1,National Geograpghic People 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37932
+ 
+#EXTINF:-1,Animal Planet 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9112
+ 
+#EXTINF:-1,Love Nature 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37933
+ 
+#EXTINF:-1,Love Nature FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9008
+ 
+#EXTINF:-1,Viasat Explorer 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9117
+ 
+#EXTINF:-1,Viasat Explorer FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9012
+ 
+#EXTINF:-1,Viasat Nature 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9119
+ 
+#EXTINF:-1,Viasat Nature FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9013
+ 
+#EXTINF:-1,Viasat History 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9118
+ 
+#EXTINF:-1,Viasat History FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9014
+ 
+#EXTINF:-1,History Channel 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30426
+ 
+#EXTINF:-1,History Channel FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9015
+ 
+#EXTINF:-1,Travel Channel 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9129
+ 
+#EXTINF:-1,Travel Channel HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31409
+ 
+#EXTINF:-1,Fishing & Hunting 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9123
+ 
+#EXTINF:-1,Fishing & Hunting HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37934
+ 
+#EXTINF:-1,Crime & Investigation 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9122
+ 
+#EXTINF:-1,DocuBox 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37931
+ 
+#EXTINF:-1,DocuBox FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/21073
+ 
+#EXTINF:-1,Travel MIX FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9018
+ 
+#EXTINF:-1,Travel XP 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37935
+ 
+#EXTINF:-1,Travel XP FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30387
+ 
+#EXTINF:-1,BBC Earth 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/50192
+ 
+#EXTINF:-1,BBC Earth FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9017
+ 
+#EXTINF:-1,BBC First FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30419
+ 
+#EXTINF:-1,DaVinci Kids 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37909
+ 
+#EXTINF:-1,DaVinci Learning HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/14441
+ 
+#EXTINF:-1,HGTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9121
+ 
+#EXTINF:-1,HGTV HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37894
+ 
+#EXTINF:-1,Arcadia World HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30366
+ 
+#EXTINF:-1,PaprikaTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9126
+ 
+#EXTINF:-1,Paprika Tv HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31402
+ 
+#EXTINF:-1,Food Network 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9128
+ 
+#EXTINF:-1,Boomerang 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9161
+ 
+#EXTINF:-1,Boomerang HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37917
+ 
+#EXTINF:-1,Cartoon Network 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9160
+ 
+#EXTINF:-1,Cartoon Network HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37916
+ 
+#EXTINF:-1,Disney Junior 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9166
+ 
+#EXTINF:-1,TeenNick 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/17997
+ 
+#EXTINF:-1,Disney Channel 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9165
+ 
+#EXTINF:-1,Nickelodeon Jr 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30439
+ 
+#EXTINF:-1,Cartoonito 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/58769
+ 
+#EXTINF:-1,Minimax 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9167
+ 
+#EXTINF:-1,Nickelodeon 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9162
+ 
+#EXTINF:-1,Nicktoons 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9164
+ 
+#EXTINF:-1,Nick Jr. 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9163
+ 
+#EXTINF:-1,DuckTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9168
+ 
+#EXTINF:-1,JimJam 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9169
+ 
+#EXTINF:-1,U TV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9139
+ 
+#EXTINF:-1,U TV HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31414
+ 
+#EXTINF:-1,ZUTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9142
+ 
+#EXTINF:-1,ZUTV HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9022
+ 
+#EXTINF:-1,KissTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9140
+ 
+#EXTINF:-1,Kiss TV FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/54415
+ 
+#EXTINF:-1,Mooz RO! 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9150
+ 
+#EXTINF:-1,Mooz Hits 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37921
+ 
+#EXTINF:-1,Mooz Dance 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9149
+ 
+#EXTINF:-1,Mooz Dance HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9021
+ 
+#EXTINF:-1,RockTv 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31407
+ 
+#EXTINF:-1,MagicTv 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/13182
+ 
+#EXTINF:-1,Retro Music 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/14444
+ 
+#EXTINF:-1,Atomic Tv Music 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30395
+ 
+#EXTINF:-1,H!T Music Channel 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9141
+ 
+#EXTINF:-1,1 Music Channel 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/11211
+ 
+#EXTINF:-1,Impact Dance HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31853
+ 
+#EXTINF:-1,First Music 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9152
+ 
+#EXTINF:-1,Music Channel Ro 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37920
+ 
+#EXTINF:-1,First Music FHD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9024
+ 
+#EXTINF:-1,Trace Urban 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30385
+ 
+#EXTINF:-1,Taraf Tv HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31408
+ 
+#EXTINF:-1,Taraf Tv 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9154
+ 
+#EXTINF:-1,Etno 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9153
+ 
+#EXTINF:-1,Tezaur Folclor HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/24811
+ 
+#EXTINF:-1,TVR Folclor 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/58770
+ 
+#EXTINF:-1,Atomic Academy HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/53522
+ 
+#EXTINF:-1,Impact Tv Manele 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/26656
+ 
+#EXTINF:-1,Traditional Tv 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30386
+ 
+#EXTINF:-1,NorocTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9158
+ 
+#EXTINF:-1,PopasTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9155
+ 
+#EXTINF:-1,Moldova ʜᴅ 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82282
+ 
+#EXTINF:-1,Noroc TV Moldova ʜᴅ 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82283
+ 
+#EXTINF:-1,N4 ʜᴅ 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82284
+ 
+#EXTINF:-1,One TV ʜᴅ 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82285
+ 
+#EXTINF:-1,R-live ʜᴅ 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82286
+
+#EXTINF:-1,AgroTV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9125
+ 
+#EXTINF:-1,Profit RO 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9133
+
+#EXTINF:-1,TVR INFO HD 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37906
+ 
+#EXTINF:-1,Romania TV 
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37912
+
+#EXTINF:-1 tvg-id="FilmMania.(HD).ro" tvg-name="★☆★ ROMANIA ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/ro.png" group-title="RO ✪ ROMANIA",★☆★ ROMANIA ★☆★
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWXJBNkhEQmdGUFlyRDFwMDZia3RSQUtaL3BRS3B4L21ib2Y4bzMxMFdzYw
+#EXTINF:-1 tvg-id="PRO.TV.(HD).ro" tvg-name="RO: PRO TV FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zvo9sLGynuC4J4XXr1qEGLrRGEbt4oCsJ4zo6umRqLlA.png" group-title="RO ✪ ROMANIA",RO: PRO TV FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUUtiY2xSTjUySHNlbDFJUWpmdmlUTndqaUJPN0tHamNYU2FNcFBhdGFkNQ
+#EXTINF:-1 tvg-id="PRO.TV.(HD).ro" tvg-name="RO: PRO TV HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zvo9sLGynuC4J4XXr1qEGLrRGEbt4oCsJ4zo6umRqLlA.png" group-title="RO ✪ ROMANIA",RO: PRO TV HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZW5wWFJhTVUrRWNmK243Ni9jZXhvSE8zUU9heXZGNlZWVWd6OTJ2RWdHZA
+#EXTINF:-1 tvg-id="Antena.1.(HD).ro" tvg-name="RO: ANTENA 1 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrI3OmCDqcmWcXhtsnhTR7Reln2hxHUcv8wX1R9jwLdQ.png" group-title="RO ✪ ROMANIA",RO: ANTENA 1 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZldKVlRkU1ZjZlVtNjgveUd1N091YVdxamNOMlRyMGNxQ2Z5aEFOSVRLZw
+#EXTINF:-1 tvg-id="Antena.1.(HD).ro" tvg-name="RO: ANTENA 1 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrI3OmCDqcmWcXhtsnhTR7Reln2hxHUcv8wX1R9jwLdQ.png" group-title="RO ✪ ROMANIA",RO: ANTENA 1 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY3ZnSGt3Nm1yOGh0M3lnWXoxcTNtdjdjK3psenc4VGhocWJLVU5yNmx1Sw
+#EXTINF:-1 tvg-id="Kanal.D.(HD).ro" tvg-name="RO: KANAL D FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yJaFCL3VeMgSM_l7TTDO688dWzmd7RDejK67FaSTOWcA.png" group-title="RO ✪ ROMANIA",RO: KANAL D FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVGFaOHVQYXEwRjlTbXc4UVcyaUtrZWo4MXFTVS9BdWNteThYWXcvZ3BsRg
+#EXTINF:-1 tvg-id="Kanal.D.(HD).ro" tvg-name="RO: KANAL D HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yJaFCL3VeMgSM_l7TTDO688dWzmd7RDejK67FaSTOWcA.png" group-title="RO ✪ ROMANIA",RO: KANAL D HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWWpQYldyL0RpSm9JdDVHUVJuRHdkWFVDYWtZb3JCdzQxTTdCM0hPbVhFTQ
+#EXTINF:-1 tvg-id="Happy.Channel.(HD).ro" tvg-name="RO: HAPPY CHANNEL FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9w6yyrrz16LKwkYZDV3G2IhLQ9glvhWfNCiokWuC8MPTA.png" group-title="RO ✪ ROMANIA",RO: HAPPY CHANNEL FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUytuUmdNQVFUWmxoblY3cnRtQnRlcjg3aFJXeTZrU3lHYnY5T1BiKzFrVA
+#EXTINF:-1 tvg-id="Happy.Channel.(HD).ro" tvg-name="RO: HAPPY CHANNEL HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9w6yyrrz16LKwkYZDV3G2IhLQ9glvhWfNCiokWuC8MPTA.png" group-title="RO ✪ ROMANIA",RO: HAPPY CHANNEL HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVnNzTEtXS1NySFpEMmRGWkhCaFZRV1YxbnlHQzZFMjZZZ2pXZWVwZGRTVw
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-name="RO. PRIMA TV FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yqKbWYOrjmluoeay-fMlZgimu_CUdZdjAyoFIhFm6oqQ.png" group-title="RO ✪ ROMANIA",RO. PRIMA TV FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZndSVk95azFaMUE0Z1ZFZTdXVGloUHdxdkplT0YvM3hoNnRjQlB6bFJQVw
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-name="RO: PRIMA TV HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yqKbWYOrjmluoeay-fMlZgimu_CUdZdjAyoFIhFm6oqQ.png" group-title="RO ✪ ROMANIA",RO: PRIMA TV HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV3dMVmxQaWpmTmIySzBmZWxYeGhaaEVnNGQvcW14SEFsNEJGUUp0aUlKYg
+#EXTINF:-1 tvg-id="Antena.3.(HD).ro" tvg-name="RO: ANTENA 3 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrI3OmCDqcmWcXhtsnhTR7hAO0vfTJ5GyqkINZ0Dthnw.png" group-title="RO ✪ ROMANIA",RO: ANTENA 3 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZGFVVXh4WXp2TGVoaG5ObW13YThZaU5SS1poNGU5MXhDS1kralM1NkhNYQ
+#EXTINF:-1 tvg-id="Antena.3.(HD).ro" tvg-name="RO: ANTENA 3 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrI3OmCDqcmWcXhtsnhTR7hAO0vfTJ5GyqkINZ0Dthnw.png" group-title="RO ✪ ROMANIA",RO: ANTENA 3 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWS82ZWtLWHNKd1ZEQ3RDK2pydVhSNFJodml3V2lYLzV5aUcvUHVYcnZHaA
+#EXTINF:-1 tvg-id="Antena.Stars.(HD).ro" tvg-name="RO: ANTENA STARS FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrI3OmCDqcmWcXhtsnhTR7Vpkbgg5mBbpZmHHy5AdX9Q.png" group-title="RO ✪ ROMANIA",RO: ANTENA STARS FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY3k0dFdZcVpyM1JLMlorYzIrL1RJZ3lSWE52Z2dHWG5GZ2tJY0VnYXNQSg
+#EXTINF:-1 tvg-id="Antena.Stars.(HD).ro" tvg-name="RO: ANTENA STARS HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrI3OmCDqcmWcXhtsnhTR7Vpkbgg5mBbpZmHHy5AdX9Q.png" group-title="RO ✪ ROMANIA",RO: ANTENA STARS HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWDdNSzRnYTc2R3ZIa2JoRkhSNkR6VVlvQ29oaGRGbzY3ZUFVNGtwRFpwUA
+#EXTINF:-1 tvg-id="" tvg-name="RO: ROMANIA TV FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zo_4nkeMLzzZFXxpzRuaEcPbaVhjBj4fSTPtsNtxf11Q.png" group-title="RO ✪ ROMANIA",RO: ROMANIA TV FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZVg4ampmVG91RG5HS2k1WGFkRnorMElqanpXZGtQY3N6L1FBT05EUVBqRA
+#EXTINF:-1 tvg-id="" tvg-name="RO: ROMANIA TV HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zo_4nkeMLzzZFXxpzRuaEcPbaVhjBj4fSTPtsNtxf11Q.png" group-title="RO ✪ ROMANIA",RO: ROMANIA TV HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZmxtaHl5TzRUOFk2dm0xT2l2Y2Zwa3NmVE85STl6SWRTMmpXcmI3QjFWUQ
+#EXTINF:-1 tvg-id="TVR.1.(HD).ro" tvg-name="RO: TVR 1 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9z02TXToeUknb0wvGlY7L9cLRQ3F0uBxnsot1ev4PQoVw.png" group-title="RO ✪ ROMANIA",RO: TVR 1 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY2NHdGhXK3NqNXE1OVRPMGhiMyt6aGJVblBnSFRIekFZRllHOEhNNk5Gbw
+#EXTINF:-1 tvg-id="TVR.1.(HD).ro" tvg-name="RO: TVR 1 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9z02TXToeUknb0wvGlY7L9cLRQ3F0uBxnsot1ev4PQoVw.png" group-title="RO ✪ ROMANIA",RO: TVR 1 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWVdZdWZKWC9aRzZsTEF5bGtxdWh3OHJBYjRCUVJTdHdaK29EVDErbnUwZQ
+#EXTINF:-1 tvg-id="TVR.2.(HD).ro" tvg-name="RO: TVR 2 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xw7HAwSqXrSNjZEh2sJDd8IRoTVGf1yKbeUmU1aRhT9Q.png" group-title="RO ✪ ROMANIA",RO: TVR 2 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUTZyN3ZuYjdFdWdoWGVpSlFYQ2NMVllwOU1vOG5JU3pndHMyamJiTGc3Vg
+#EXTINF:-1 tvg-id="TVR.2.(HD).ro" tvg-name="RO: TVR 2 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xw7HAwSqXrSNjZEh2sJDd8IRoTVGf1yKbeUmU1aRhT9Q.png" group-title="RO ✪ ROMANIA",RO: TVR 2 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZWdib0hzRjJxNkdDaGdjcFkwNXhwWjNHOTlOTW1qblI5UCs2SDBuaXRhbA
+#EXTINF:-1 tvg-id="TVR.3.(HD).ro" tvg-name="RO: TVR 3" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x6QdYkonWnzEMES0HF-9eTVprtE6pg_Jh0SwwO-SXxEw.png" group-title="RO ✪ ROMANIA",RO: TVR 3
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVnhnWDZlVHhQL2Z4eWNXYjMwczFRQWhwYWd0M3lBTENZTi9HMGVDVzdWQw
+#EXTINF:-1 tvg-id="TVR.International.ro" tvg-name="RO: TVR INTERNATIONAL" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yM68KMxa7Z_zT47EbPQMg-DHN_0uYTxYLRGf-vvKVHchSqbVInpWGnXZZN9MUdszE.png" group-title="RO ✪ ROMANIA",RO: TVR INTERNATIONAL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVVBhQ0NwUTRhdTdEMnhmSUtDeGNxTGlEcjh3WE9Wbm5OemVnTFlrNTJnbw
+#EXTINF:-1 tvg-id="" tvg-name="RO: A7 TV" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xy_hVoUqqnA-CVEWwI4aB6o_MFqyjaWK4cjxfEVDN3hw.png" group-title="RO ✪ ROMANIA",RO: A7 TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVXFtK1dZUzJXS2xLY3ZhaXhUVmJIR1BJRWpBeVBWQWMwRFliYVNyQlFvWQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: B1 TV" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zlWAvTEzm3umRbSN4FUYJD24bsR_LtcKiDYOb8zmcg1A.png" group-title="RO ✪ ROMANIA",RO: B1 TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVDlQSmlUVC8yRlBRL09QT216c1RzYUVReFZMWm5WZTNGL2x6dnoveko5UA
+#EXTINF:-1 tvg-id="National.TV.ro" tvg-name="RO: NATIONAL TV" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xkyQsf1WgO1kMxwztFBED7wJIpkAQtOb047h5kC0s8bg.png" group-title="RO ✪ ROMANIA",RO: NATIONAL TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZHpiWUFrTFlQRWRzMG9FcktNM1JBZStQOWtPbGVJR0V2V0VpL2NBWXZQLw
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI 24 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9waVpvfIx3Nmpsti1hyAuYSz_j5pw9A2-hcIEyzwQjOLg.png" group-title="RO ✪ ROMANIA",RO: DIGI 24 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVlU5a1Zub0VYVFlXcnNwaHlEay9Fd05WZGJFbklrc1BzZWRIQk1kOUFoWg
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI 24 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9waVpvfIx3Nmpsti1hyAuYSz_j5pw9A2-hcIEyzwQjOLg.png" group-title="RO ✪ ROMANIA",RO: DIGI 24 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVGRTUjhVa2NIbjgzdnViV2RYa3Z6VjQxTldRL0NEZUVmczJPaDlCUkhsZQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: REALITATEA PLUS" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zPV9cj3MbUP3JWa690c8EWdp97sC6et2TAx6DQzjp1Eg.png" group-title="RO ✪ ROMANIA",RO: REALITATEA PLUS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZUwyckhsTG0yWno2YUxIZGhKN2x3R1R1OU1tZXEwMjd6Tk50MWlYeG1ZeA
+#EXTINF:-1 tvg-id="PRO.TV.(HD).ro" tvg-name="RO: PROFIT" tvg-logo="http://xc.contact/images/k8OVwYvorBTMluLVI-E_aF9IC8uBTcGJPL2_qcHyzkEOY9AHShotCH25h_2JYYclwTMD6emdat45vCkHujD6NOQV4E3ynwU-fiSHBt9-Cfk.png" group-title="RO ✪ ROMANIA",RO: PROFIT
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUzVKR08ydVVWZHYySTVha2k0eUpHOXBhb1hHMkhOUkIrVFJUS012L3lEag
+#EXTINF:-1 tvg-id="" tvg-name="RO: NASUL TV" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wb4OfnX4xnF3ruaI1Z0cmnimulVrJK6NbvVaJWI0kf4w.png" group-title="RO ✪ ROMANIA",RO: NASUL TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVFN2L1d1R0Z3YmFreWxWVjFBbGFzTWxDYWdtZlBiNiszd1RRc242VXhvdw
+#EXTINF:-1 tvg-id="" tvg-name="RO: BUCURESTI TV" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3se9W8IP3ZKpQdSJogfk59fN5fs-ssSE3f606v43hIWTA.png" group-title="RO ✪ ROMANIA",RO: BUCURESTI TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWFVRSEU5a0Z5QjVNVzBkVTNxaFVsSmJoK2loSEdBUlB0WmNORzNVZG9VcQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: INEDIT TV" tvg-logo="http://xc.contact/images/k8OVwYvorBTMluLVI-E_aF9IC8uBTcGJPL2_qcHyzkEyjBsQ3hRkLs-wLkXf64yoPvz6tZcmX8g7SZLmJmYF0FIKC-9p6Bhj8P--NT-QNc8.jpg" group-title="RO ✪ ROMANIA",RO: INEDIT TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWTNyTCsyd0hUbE5ISHJnWGZsd1dxRExhWHdkNWxJMHlnYzEvZExaQ1Z1WQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: INTERMEDIA TV" tvg-logo="http://xc.contact/images/k8OVwYvorBTMluLVI-E_aF9IC8uBTcGJPL2_qcHyzkE93s3WlPQnEcJXyjfSlFJykbPiSPvBeHqMWrZpFNVEKvo9THAA43ScPsyTBT96pUQ.png" group-title="RO ✪ ROMANIA",RO: INTERMEDIA TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYWlhTVdEd1VuVkJvYTJOQlNDK3dESTZudGYxaXdhSE5tbzJUbTBzeHdQNA
+#EXTINF:-1 tvg-id="" tvg-name="RO: INTERMEDIA SUCEAVA" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7N2qydjydDc9fJKV15GyDoOVV78mzdlMZafN_XCtao4lnKNerKl3c1EaiB0-HK7PQU.png" group-title="RO ✪ ROMANIA",RO: INTERMEDIA SUCEAVA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVUs4M1ROOEtDNU02KzhiMjNSUko5eEhzemFkODJ1bkhEbWJPTjFBQWpnWg
+#EXTINF:-1 tvg-id="Alfa.Omega.TV.(HD).ro" tvg-name="RO: ALFA OMEGA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wvcV1UQDKxrzo9f3s5WZTgbLJRt3pOpGtRKkyVJRTeJQ.png" group-title="RO ✪ ROMANIA",RO: ALFA OMEGA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUjFudTRiMlhMV2l2TE1IQmZCWS9vVUpJdHlDZnhvbWw2OGlDTzY5cjBPMg
+#EXTINF:-1 tvg-id="" tvg-name="RO: TRINITAS" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zHGC2j_mNLF07KDvgELpF1h96VxttaOvEYi2fUbf_dhA.png" group-title="RO ✪ ROMANIA",RO: TRINITAS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYTF0Z0c4VVVEbHZUbXd1MEV4aW5MNDJ5azFkbzMvZkZrS3RwTzZDT05Ndw
+#EXTINF:-1 tvg-id="" tvg-name="RO: CREDO TV" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xXN-I8FAnfhn8Qs3LaGYPkAylrni4_ZpS8aL7Iddr8zA.png" group-title="RO ✪ ROMANIA",RO: CREDO TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWldob3ExejRYL3U5Sy83a1lBK0xWWEtLM0R2M0FNUUE1b0xpaFpsWThubg
+#EXTINF:-1 tvg-id="" tvg-name="RO: DUNA TV" tvg-logo="http://xc.contact/images/k8OVwYvorBTMluLVI-E_aF9IC8uBTcGJPL2_qcHyzkHnTtf3s7gmTP7fX9oVei9zhi4IHCMfaNqSFpRYF9Rpjv3DUCdwRAorZENp-vszpEk.png" group-title="RO ✪ ROMANIA",RO: DUNA TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZVQ3eVhjSnVtMXlTQTRsMVlab2JnWEsxSHhPTmRhWkp0S2pTYTc4L0Q5Tg
+#EXTINF:-1 tvg-id="TV5.Monde.(HD).ro" tvg-name="RO: TV5 MONDE" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PPZz8o1Znyxvs337Larxg63gX4JO7_LyW1v4U31x_-0g.png" group-title="RO ✪ ROMANIA",RO: TV5 MONDE
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVGg3cW9OU2RMTUhZMU5ObjY3bS9PYzg3TWQ5V2pWYjY5RTYzQ2Y2d2IwYw
+#EXTINF:-1 tvg-id="" tvg-name="RO: B1 TV HD" tvg-logo="http://xc.contact/images/Jd-tZSqDQbn7P7671GfGEWaPk7DuvC0_vXF0fpwdhp3HJpU7we-ShK9vmI0iBRnd.png" group-title="RO ✪ ROMANIA",RO: B1 TV HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVCtJWGpxYU1aNVdaRURZdW84WG15WUVNNlJTNDQ2TTE4azFGbXRnOThYaw
+#EXTINF:-1 tvg-id="PRO.TV.(HD).ro" tvg-name="RO: PRO-X" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7NVh9kEFAdesUSJVCDaw5LGNxVN9SCqenWcW6YK9Sarpw.png" group-title="RO ✪ ROMANIA",RO: PRO-X
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYUZyMjMxaHpEbjdZK2tFdkVlZkx1NU5ObWxqSXp5eVIwQzVaTzdhUElzaw
+#EXTINF:-1 tvg-id="" tvg-name="RO: FASHION TV" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7Mi55JOpSzYmMHhnbfVb4ecTECOhZPxRDLBN6clyVsm0g.png" group-title="RO ✪ ROMANIA",RO: FASHION TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZU5OWDVTTmpyMU5FeUpGNWhUL3M0QTd4WW9rcDJabmJNZEpFMHZmdU9XNg
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV 2" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PxGqk05EIQJF8M2QzKTkMF27OnpXGXADi_8aIW7_T02w.png" group-title="RO ✪ ROMANIA",RO: TV 2
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVklZNjBlNGM2NVZyRVRzSDNPTnpqdUVyTnp0OSt4NVZ5MWtkZHlaa1BNYQ
+#EXTINF:-1 tvg-id="Mooz.RO!.ro" tvg-name="RO: MOZI+" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PxGqk05EIQJF8M2QzKTkMFOMtzIdqNAToz8GYX4_5l9A.png" group-title="RO ✪ ROMANIA",RO: MOZI+
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUm95YWRueHZnZUw0VWZXdllzQmdQbmxQanM0Q09ZWG82S1ExTXM0UHRYdg
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-name="RO: PRIME" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PxGqk05EIQJF8M2QzKTkMFuJFtetUtkidqdXvzQQ07kw.png" group-title="RO ✪ ROMANIA",RO: PRIME
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVlJ4RzE2Rk1WVmUxZ096a3A5eDNRRmpUN3pTSlFuSFEwaVJYZTdRTk5iTg
+#EXTINF:-1 tvg-id="TVR.2.(HD).ro" tvg-name="RO: SUPER TV 2" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PxGqk05EIQJF8M2QzKTkMFkrerp6uh-T55LtI0zKN719kqvgfe8H1jCziW72mJfhc.png" group-title="RO ✪ ROMANIA",RO: SUPER TV 2
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWHJ3R1VvZmg2RWNCbU92elN5Nm1mSTJsOHprZ245QVNIdHlQWHJKS1lRbQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: IZAURA TV" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PxGqk05EIQJF8M2QzKTkMF1VB-3xle2uf5dRoivrfRcw.png" group-title="RO ✪ ROMANIA",RO: IZAURA TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYVYvcXhaaXJIN1Q0Z3A0cmdMN3MrOFMwTmdLMi9sbDh6WndpeEtNb1ZrKw
+#EXTINF:-1 tvg-id="" tvg-name="RO: M2/PETOFI" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PxGqk05EIQJF8M2QzKTkMFm9Z1RCYbduDeQH6Ly_EC_w.png" group-title="RO ✪ ROMANIA",RO: M2/PETOFI
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYVg3Z0tXZ3ZUL3Y4bkdnWTJyK25ickRrUHd6WENZVUkwaWpwbXdsbjArLw
+#EXTINF:-1 tvg-id="" tvg-name="RO: DUNA WORLD/M4 SPORT+" tvg-logo="http://xc.contact/images/R9D-7akxIsQpcdv0_BM6pb3umhKIrBwiFyYIoNjow7PxGqk05EIQJF8M2QzKTkMFPWV22KPgJYXFroymk1LGDWmnDvFpCTvXVUvO1dPTnYM.png" group-title="RO ✪ ROMANIA",RO: DUNA WORLD/M4 SPORT+
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY2lMdmdOdG92RitDSHdlMUwwRGVRMERKZmhzR1U4MjVnQ0o3dVVzcmZTZQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: ALEPH NEWS" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yWJO-6KFmJXIurm8dQgKO1HRHM_jXUz4Rp8OMTeISEig.png" group-title="RO ✪ ROMANIA",RO: ALEPH NEWS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYVQyY3R4bnAzOEduN2hnVFFoaU8yMllzZGVBaStWZ0ZRQXFManBoOE1RYQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: EURONEWS" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wwOjPEhCFdy4auHiHZY1meCzWaRKhWWfDgs5Af_pQEu076GxD3oMAsJN2XOFcIGwA.png" group-title="RO ✪ ROMANIA",RO: EURONEWS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZWxsRUFidWZhRTZFbDRUb0RoQncrSkpsTlRrbjVkY0NNLzgxZ2s0VUF4NA
+#EXTINF:-1 tvg-id="Cinemax.(HD).ro" tvg-name="★☆★ CINEMA ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/ro.png" group-title="RO ✪ CINEMA",★☆★ CINEMA ★☆★
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWnhqdG8rZzlBS25KeDhCa0ppWXBnLy9wWlNKbCthZGZyUEYzeVhWNzViVw
+#EXTINF:-1 tvg-id="" tvg-name="RO: PARAMOUNT CHANNEL" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDsg_WB-2nHwiIDiMGZz5Gum5XdO42rwenU0lAe7qka4Iuo0-LCr2v7DGs1rZU0k9D.png" group-title="RO ✪ CINEMA",RO: PARAMOUNT CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVXBML0hzQTFobng0c08za3greENqemlJUHJqbS9MdGNaR0Rta0lMOW5vOQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIVA UNIVERSAL" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x2C6jqvatLMhIqmDTqCkc7r7SCVIdyhEE8jYxgjOETYg.png" group-title="RO ✪ CINEMA",RO: DIVA UNIVERSAL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWlpnUUllWFZVTFIrb0pyaEpGU3l0NWlyQzFkenU1Tko3OHluMEVqWW5NLw
+#EXTINF:-1 tvg-id="Diva.ro" tvg-name="RO: DIVA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x2C6jqvatLMhIqmDTqCkc7r7SCVIdyhEE8jYxgjOETYg.png" group-title="RO ✪ CINEMA",RO: DIVA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVXB1eXh1VjJyWUdxVkJPaWhBUTRneiswYVFXcGJuODB2SzBIUHFGOW5xRA
+#EXTINF:-1 tvg-id="" tvg-name="RO: TNT HD" tvg-logo="http://xc.contact/images/bCbSQtx6gOWxyzNHn54mLagHVGLLcoe3o-iC2NKKG8CIaIm90HqRfUmZvwJHkc4OP71UQAkhqZPIp2Yi05LbsQBwis1Lz2AIGPq_IW5iVuM.png" group-title="RO ✪ CINEMA",RO: TNT HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVjFkSzVVWHQ3UHkwRnBFYmxEbkM2ZVgvSUFQTzQyQ25VSi9YVHNRVml2aw
+#EXTINF:-1 tvg-id="Warner.TV.(HD).ro" tvg-name="RO: WARNERBROS" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9znNuDTz_RxE0B9OQXQhhDuStWIwpWNydCjtGrIJF15pg.png" group-title="RO ✪ CINEMA",RO: WARNERBROS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUVBSODA4UDhkUzNEZGFpWDNza1NuNEM3Z2RCdjBwYUlERmZDSUI0Y1E1Nw
+#EXTINF:-1 tvg-id="" tvg-name="RO: TIMELESS DRAMA CHANNEL HD" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDNDFJSoTDJX595mpq10-WFE8vQ-1QOV2PZpqEjSlsJBaYdjtisaIausAJS3PZkcPMn6aO_SrI4mqe3vpkf8KjVw.png" group-title="RO ✪ CINEMA",RO: TIMELESS DRAMA CHANNEL HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYVN6NzZTcS9VeHY5dEZUQk1CNFlKTnVFNWhYanVpRGJKVEVldndsbDlaZA
+#EXTINF:-1 tvg-id="" tvg-name="RO: ACASA GOLD HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wxndUwhlNjI-jD6G9fE7rPqI_UPwaZ-WV3JyUwv3kUKQ.png" group-title="RO ✪ CINEMA",RO: ACASA GOLD HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZXJCc01qQmd0K3dRTGlTOGMrUGhab3FNMWsxa0luWlF3bzFjSmdFVExrQQ
+#EXTINF:-1 tvg-id="Acasă.(HD).ro" tvg-name="RO: ACASA SD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yYQyhZ1I3_Ykx29lmzHTUv0WrzAWZxCC4fYRCR6n5RUw.png" group-title="RO ✪ CINEMA",RO: ACASA SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWkVzWTV6QXEyUXM1TzgrZTdqR2IyOTZONW04NldoRDhRbG5FNEJ5eHpIMA
+#EXTINF:-1 tvg-id="Acasă.(HD).ro" tvg-name="RO: ACASA HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yYQyhZ1I3_Ykx29lmzHTUv0WrzAWZxCC4fYRCR6n5RUw.png" group-title="RO ✪ CINEMA",RO: ACASA HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWTNZTlQ1NW5icEpkbnB2Z3FnTUF5bVcvOXpoa214QUFDcFYwZ0ZsUGZPbQ
+#EXTINF:-1 tvg-id="PRO.TV.(HD).ro" tvg-name="RO: PRO 2" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3u_yJL0D_40PRBk4NX5PkCanW9-cUaoYj69PEM38oaork4ue0B3SNEyly0ukdqYtycPpjozQYQaOq_LK8-sRIvS.png" group-title="RO ✪ CINEMA",RO: PRO 2
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVjBGREF5bWhRSjVIS2ZnS1NmeVRnRGRWOGY0dHpvYmpMRHlhNTZJRDJDLw
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO GOLD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3uJjqWMj_abFYBVf6Nn-sqFmCWYR7PQ2MASxmzjoBFlQ07MrOZ6ctfEF_Lx9ThaC6_v4RjNHMl3hkHs36smeRlI.png" group-title="RO ✪ CINEMA",RO: PRO GOLD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWHFNTTg1QkYrUEVudXRtUkdveEhRZVJiWjlHWjVwc25vZi9rcjZleEk5Ng
+#EXTINF:-1 tvg-id="PRO.Cinema.(HD).ro" tvg-name="RO: PRO CINEMA SD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3sbT-oxmU-TqeC8xgVTm7YcoUn7aNkrLRWoKLOsxSaof90NATreOjBUvFpodpM6MB7XrnapvrBAXBcZl3dbTS7U.png" group-title="RO ✪ CINEMA",RO: PRO CINEMA SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWEdoS1ZuV3JxaXlJYzdDZXp5S2Jna1VWYk1ZclV6L2hWd3R6MUl4SGF2aQ
+#EXTINF:-1 tvg-id="PRO.Cinema.(HD).ro" tvg-name="RO: PRO CINEMA HD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3sbT-oxmU-TqeC8xgVTm7YcoUn7aNkrLRWoKLOsxSaof90NATreOjBUvFpodpM6MB7XrnapvrBAXBcZl3dbTS7U.png" group-title="RO ✪ CINEMA",RO: PRO CINEMA HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUWRTRHIxVHNtUFp1NW40ZU8vbWgxSXpTc0JWU2k1alNwVit0OGZ4Q1NVZQ
+#EXTINF:-1 tvg-id="Filmbox.Premium.ro" tvg-name="RO: FILMBOX PREMIUM" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWmgaN6xH26FJil47b3_bq-pwkp8zQVtZavtesENFIp2_-PyvGYOG5MmqEzYRYI-BuA.png" group-title="RO ✪ CINEMA",RO: FILMBOX PREMIUM
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUnhsRVkwZW1ndnhtdytTWG1GN0tEdHdzM0pIWit4SWo3dmpZSitaSWNyKw
+#EXTINF:-1 tvg-id="Filmbox.Extra.HD.ro" tvg-name="RO: FILMBOX EXTRA HD" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDRrBBUa9FCSim1bmlAT1aHus_CpFzxrCf6CHtAo72GA2LlTd-H9ZSiSZ4T9RWEMSM.png" group-title="RO ✪ CINEMA",RO: FILMBOX EXTRA HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYkxyVW9FYjN2MWZKbHdQNGpsUXRBWHQ0WStyLzN4WFA0SmprSXNDRGRUOA
+#EXTINF:-1 tvg-id="Filmbox.Family.ro" tvg-name="RO: FILMBOX FAMILY" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDRrBBUa9FCSim1bmlAT1aHus_CpFzxrCf6CHtAo72GA2LlTd-H9ZSiSZ4T9RWEMSM.png" group-title="RO ✪ CINEMA",RO: FILMBOX FAMILY
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVG91SU1VbkRDTXFoNFI5dmFxVXp0TVZ6QTN4ZDNNbnR1aHZMNXprZFFmRg
+#EXTINF:-1 tvg-id="" tvg-name="RO: FILMBOX STAR" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDRrBBUa9FCSim1bmlAT1aHus_CpFzxrCf6CHtAo72GA2LlTd-H9ZSiSZ4T9RWEMSM.png" group-title="RO ✪ CINEMA",RO: FILMBOX STAR
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArU3JjUTFtNnBIN2owYytTU2lhM2twazVGa3pWeWZnc3R1Z2NrV25tYVNBQQ
+#EXTINF:-1 tvg-id="Filmbox.ro" tvg-name="RO: FILMBOX" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDRrBBUa9FCSim1bmlAT1aHus_CpFzxrCf6CHtAo72GA2LlTd-H9ZSiSZ4T9RWEMSM.png" group-title="RO ✪ CINEMA",RO: FILMBOX
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYUZOWXpuVjdrMnNvQm1PTUhINXZCMmVwWUJBUG1oK0pQMVh6WW0xR3Jaag
+#EXTINF:-1 tvg-id="Film.Cafe.(HD).ro" tvg-name="RO: FILM CAFE" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDzve9h5QYGegVfYh-SU5eVyD6-U0rARttw8g7AeMb4btWGcVk3BDaSljPkSCcNSlf.png" group-title="RO ✪ CINEMA",RO: FILM CAFE
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV3N2WFhrb1M3azE4REdYWTlFQlRDSGJNQ0VRRW9VYXhRbGN5RnYzSm5mSQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: FILM NOW SD" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDHCuwjo-7KGLDWF_j6n1D6P2M-Yr-wc0hwBd2KQusdWUFKmBb2Sb1kjYQ5musAzhq.png" group-title="RO ✪ CINEMA",RO: FILM NOW SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV2NPOUVDRkgyYk1LcXlzc1pFbmVBQUc3b2FEcjRzZE5ndURabjVvcnhhOQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: FILM NOW HD" tvg-logo="http://xc.contact/images/0Qp45FJkloRjY7lEMAZvtNPeq4HGIrVtq5ByuzMxZQX0HlrgFtSvco3zGqJYHMvDHCuwjo-7KGLDWF_j6n1D6P2M-Yr-wc0hwBd2KQusdWUFKmBb2Sb1kjYQ5musAzhq.png" group-title="RO ✪ CINEMA",RO: FILM NOW HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArU2xhWTB0K09DY24rK3VoOEJna3l0Nkx2eDErYmE2ZGZmSmhLQktNbXB5Qg
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV 1000" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wJCezZkYR641FaWlkONjNRyoU1drrZO18qZ87NGIIwhw.png" group-title="RO ✪ CINEMA",RO: TV 1000
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUnJ4Q3VjL3E2bDVOUGxINWJid2dvVVFFcmVNNVdHWm5DNkpzTFN2QTllZQ
+#EXTINF:-1 tvg-id="Epic.Drama.(HD).ro" tvg-name="RO: EPIC DRAMA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xpA4ZTDfqff4khEAcrW_3CZwoOeOMZHpDMWe_cmBzE8A.png" group-title="RO ✪ CINEMA",RO: EPIC DRAMA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVVBreTc5NDhjM1JHQVRuTGxmUW9nNFJ3MlJSUTRuN1FZcHlRVUVSZHRJRA
+#EXTINF:-1 tvg-id="Comedy.Central.ro" tvg-name="RO: COMEDY CENTRAL" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9z7OcsikqQw2nQ1u74hxYDuUbZxiH6q01eKIcPVRVNgjg.png" group-title="RO ✪ CINEMA",RO: COMEDY CENTRAL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWXBGbVhXaVcxbGIrQ1VxNTRidDhDK1ZoQjQxNno0bGI4Uk1oNERoOENvQg
+#EXTINF:-1 tvg-id="Cinemax.(HD).ro" tvg-name="RO: CINEMAX 2 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zimg6axvUmTD82kdVbmhblwZ1wh6qQ4x2xOFWwBBufPA.png" group-title="RO ✪ CINEMA",RO: CINEMAX 2 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZWNGSmg2YWdkYUxPY01Mb2R0NEtRVUtZWWp0NXllQjlOSjM0Vndxb1Z2Tg
+#EXTINF:-1 tvg-id="Cinemax.(HD).ro" tvg-name="RO: CINEMAX 2 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zimg6axvUmTD82kdVbmhblwZ1wh6qQ4x2xOFWwBBufPA.png" group-title="RO ✪ CINEMA",RO: CINEMAX 2 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWkU2VHQxTjJrQkZYeTVqOWtHbk5UTXB3czFTTlhDNXVraFp4cVp3VFJKKw
+#EXTINF:-1 tvg-id="Cinemax.(HD).ro" tvg-name="RO: CINEMAX HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zimg6axvUmTD82kdVbmhbl38eSNDo-6T523FnI95jrBw.png" group-title="RO ✪ CINEMA",RO: CINEMAX HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZnovWXNuRXFSZGVTQkM4cnVIKzIzcVd6M3ZnWjBhQ0drNGt2K3JYT08xcw
+#EXTINF:-1 tvg-id="Cinemax.(HD).ro" tvg-name="RO: CINEMAX FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zimg6axvUmTD82kdVbmhbl38eSNDo-6T523FnI95jrBw.png" group-title="RO ✪ CINEMA",RO: CINEMAX FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY2VZU1dTN3NWSmNKc1ltOVhDVWx3M0hQdVczeURJaXlERXRDRGZ1SzZTSQ
+#EXTINF:-1 tvg-id="Cinemaraton.ro" tvg-name="RO: CINEMARATON" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xFxJzlEOVMIJqSoZ0J-gbcMvD1GHJbKw0dWggazjqp1A.png" group-title="RO ✪ CINEMA",RO: CINEMARATON
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUUFXaG5ueFA4dnhkL05zTGtsRmRKNW1GMWIwaUNYejg5a1FKcUVGVHNuaQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: BOLLYWOOD CLASIC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wEf7I_iqEDL8GNCym3WZDkU-Yali0TxpY1TlSlqi2FW_4McdwT0Uk4nhyoBrQ6oHM.png" group-title="RO ✪ CINEMA",RO: BOLLYWOOD CLASIC
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZGo2MVNzZkVRSDdTK3JXQnYzZTZJK3hJd3ltQzRmS0krN3hmVFpYMVBaYg
+#EXTINF:-1 tvg-id="Bollywood.Film.ro" tvg-name="RO: BOLLYWOOD TV HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wEf7I_iqEDL8GNCym3WZDkPFXr9ixtC5x3WuqkK5ckkA.png" group-title="RO ✪ CINEMA",RO: BOLLYWOOD TV HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUjdvcngrSlBzengrMm1GemR0QVVtaUlRK0tHdWkxcWdJUGhqb21yY0tOZg
+#EXTINF:-1 tvg-id="Bollywood.Film.ro" tvg-name="RO: BOLLYWOOD TV FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wEf7I_iqEDL8GNCym3WZDkPFXr9ixtC5x3WuqkK5ckkA.png" group-title="RO ✪ CINEMA",RO: BOLLYWOOD TV FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVE5IODVoc3RQVnV5d2lZWFAzeGJ5ZXdHTkxOUTNMU084ZGFiV2tzRTk0WQ
+#EXTINF:-1 tvg-id="AXN.Black.ro" tvg-name="RO: AXN BLACK" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9ywrl9zrAwijRy6GF69XKBF_rOu0xgRwJjwwvG6-qLH6A.png" group-title="RO ✪ CINEMA",RO: AXN BLACK
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVmllemJKSkE4QnlIMC9BOVltNkYrUXJQa3dDc0hsdVQyYlQwMmg0Y0t1bQ
+#EXTINF:-1 tvg-id="AXN.White.ro" tvg-name="RO: AXN WHITE" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yhFSy03rsD8PSM-CPnHn14H4jYujQMlJBZOC-LsmMsXQ.png" group-title="RO ✪ CINEMA",RO: AXN WHITE
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV1cyd2R0VCtqZ2IzbGM5WDJXcFhCSW4wUFBVbkFFUVg4TmdFektNZTB0VA
+#EXTINF:-1 tvg-id="AXN.Spin.ro" tvg-name="RO: AXN SPIN" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xPvxasdhIQlIVGKRTuuFX-cfGK6GvgPTcdXvuTJFPPEQ.png" group-title="RO ✪ CINEMA",RO: AXN SPIN
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZGJJVmd3eFdUaDhWQWo0WWVnUmRiOUxXbXluTUxjclFDblNpVFpQRk1KTQ
+#EXTINF:-1 tvg-id="AXN.(HD).ro" tvg-name="RO: AXN HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9z8mONOCz9ARXl3Nm_WDK67mpvF8JJH4X5BBqr467miMQ.png" group-title="RO ✪ CINEMA",RO: AXN HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZEJaKzVvYlBMNmpxdkxTSVRCU0ZjMkZLbllnUTBvME5hVjhyRnN4SWxKNw
+#EXTINF:-1 tvg-id="AXN.(HD).ro" tvg-name="RO: AXN FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9z8mONOCz9ARXl3Nm_WDK67mpvF8JJH4X5BBqr467miMQ.png" group-title="RO ✪ CINEMA",RO: AXN FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArU2tyMm51RlVOOTlCclViL0RYVFB2REQ5SFhpV2VqdTZDaGV4Q2s4WHp6Yw
+#EXTINF:-1 tvg-id="AMC.(HD).ro" tvg-name="RO: AMC HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zyO6ulzUoBpLKPf5fBQrZOvpKehSRqabGhn1nSVoPZNA.png" group-title="RO ✪ CINEMA",RO: AMC HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVXlhTUlJb0d3eWVXTUJPWGlZc3AwbkhUVFYxN2gwZzkrYk9PNUVHRExycg
+#EXTINF:-1 tvg-id="AMC.(HD).ro" tvg-name="RO: AMC FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zyO6ulzUoBpLKPf5fBQrZOvpKehSRqabGhn1nSVoPZNA.png" group-title="RO ✪ CINEMA",RO: AMC FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVVA5QmNoVUhObTFkTWhmdm9sVjhXd3ZnRDlEWmhIOWRTV1h5bEdtM25CQg
+#EXTINF:-1 tvg-id="HBO.(HD).ro" tvg-name="RO: HBO 3 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x_m2TK7G3kxlrLkrdQS4uEYbkW-o9jFTvzZhNsBvPOYA.png" group-title="RO ✪ CINEMA",RO: HBO 3 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWXBTVUQvMlRrVHpyRFdzSzk5TGVMVXFSSmxGV0poL2hVeXdVcmd2VGl0SA
+#EXTINF:-1 tvg-id="HBO.(HD).ro" tvg-name="RO: HBO 3 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x_m2TK7G3kxlrLkrdQS4uEYbkW-o9jFTvzZhNsBvPOYA.png" group-title="RO ✪ CINEMA",RO: HBO 3 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWFhWMTdpbXI0aWVuV1hpbTZPRnVpMWVkVlUxbEVaa1dDMXRCSjBXRE9FTw
+#EXTINF:-1 tvg-id="HBO.(HD).ro" tvg-name="RO: HBO 2 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xQLfm7PPMldo4f-nu3ogG7ouXebkg6gwax2kDKdDIjQw.png" group-title="RO ✪ CINEMA",RO: HBO 2 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVWllRWhRUnpPY2ZMMjZva0dBSlBSTUs4NjRETFVTMUl1TGxOcXN5WVR6TA
+#EXTINF:-1 tvg-id="HBO.(HD).ro" tvg-name="RO: HBO 2 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xQLfm7PPMldo4f-nu3ogG7ouXebkg6gwax2kDKdDIjQw.png" group-title="RO ✪ CINEMA",RO: HBO 2 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVks0NlgwVnhxM203Q09uZGlWWTBMWTVlZXA3S3M1VTNtQ3J5bEJyT2ZRdA
+#EXTINF:-1 tvg-id="HBO.(HD).ro" tvg-name="RO: HBO HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wNc6hKnI7-5D6ZJTijNic5JTzmpPqvFclSm-EISOlXQA.png" group-title="RO ✪ CINEMA",RO: HBO HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV3B4eVhTanVkTWMxQ0RSblRJQnZvNHhRUUxyZmdmWm15ckMzdkFSSWU0Kw
+#EXTINF:-1 tvg-id="HBO.(HD).ro" tvg-name="RO: HBO FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wNc6hKnI7-5D6ZJTijNic5JTzmpPqvFclSm-EISOlXQA.png" group-title="RO ✪ CINEMA",RO: HBO FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZlN3WU1hSUVjMmVtS0hBZm9SNm5IRnZrYU1tcTlJajNXdTk0ZzlYdWxSVw
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ DOKU ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/ro.png" group-title="RO ✪ DOKU",★☆★ DOKU ★☆★
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUlh6MlZ3WW56Z2V2T3NFL0hHTFZESEhhaExKL3Nka3R5VXhFWHNVVFBxRA
+#EXTINF:-1 tvg-id="TLC.(HD).ro" tvg-name="RO: TLC ROMANIA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x27sVsNDQTcocxpYgZ4-JeKGRhbciVRgAIPlex9KBLuQ.png" group-title="RO ✪ DOKU",RO: TLC ROMANIA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY2wxMEV1THVDem5UeWhPNm10UnBCTS9HOTJuOXFzZURsd0VuWXF5SVRzNQ
+#EXTINF:-1 tvg-id="Fishing.and.Hunting.(HD).ro" tvg-name="RO: FISHING AND HUNTING" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXYizWh6B2cWEFxWMYkSzoQqhB3XDxogaRUicMNntUaPL_3IHhezLkrA2S7IQZj2-chQTyNLVDgEwqnIX1C8LBKw.png" group-title="RO ✪ DOKU",RO: FISHING AND HUNTING
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArU0ZxS3ZGZVk4dW1SNmZmb0l4SFloRzNHcVI2VkpCYUF1UE9lczhHQk1GbA
+#EXTINF:-1 tvg-id="TV.Paprika.(HD).ro" tvg-name="RO: TV PAPRIKA" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXcpXFxybQfVQMZzCDqVY56pqzaEsglv5hXiWYD8lrgZrjhkN6tuYiJKs6ndWA8c4_JI72vPCkq-5jZY4Q6NUheg.png" group-title="RO ✪ DOKU",RO: TV PAPRIKA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWERheFdFdXhWOEdNaUwrYzdVYm9FcnN6QzZQa3NKVUtyTllQbmZzL3ZvZw
+#EXTINF:-1 tvg-id="Food.Network.(HD).ro" tvg-name="RO: FOOD NETWORK" tvg-logo="https://i.imgur.com/BaC52hx.png" group-title="RO ✪ DOKU",RO: FOOD NETWORK
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUkVoNi81SEw0bUhjWmpsMlM0SW9COEcyUUczNWxMdlVaMmdNaTlLaVZQTw
+#EXTINF:-1 tvg-id="Fightbox.HD.ro" tvg-name="RO: FIGHTBOX" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXZ8rCWeQ0ybzQB0ZYbWpD1tw37Z-ENxPrF4CRgrY1q62jsiDNmai90oWJXAkI_ORGqRwE6_zDJz4Q4av2AnF8nQ.png" group-title="RO ✪ DOKU",RO: FIGHTBOX
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY1dWbXhLbXVXNnN2RVhvRnFxVE4wQmE2cUJnKzNIT0RZMEdRUE1jSXFjbg
+#EXTINF:-1 tvg-id="CBS.Reality.ro" tvg-name="RO: CBS REALITY" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9w7MLPExjWz68NOQkjRhlyqR-tHsVXp5oGQFHuCiS417A.png" group-title="RO ✪ DOKU",RO: CBS REALITY
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZHlPUlNjUTlrRlNJQVQ3YmE0SW03NnBycy9PaHZWd1FLK0wyZXZwWnAyeg
+#EXTINF:-1 tvg-id="Docubox.(HD).ro" tvg-name="RO: DOCUBOX" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXVeDSjt89rOQ36KiBnMdztNv-BI17yZERAY94ARmELXVl9kouotJCmJLzCehDs_ewfd-we279jJOUXvXJNpFsMY.png" group-title="RO ✪ DOKU",RO: DOCUBOX
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVnQzYW84NnRGRS9nU1ZtMVU1dnNFUUhGUWEzVW5qcUNabWx5cHFCVmpOeA
+#EXTINF:-1 tvg-id="" tvg-name="RO: TRAVEL CHANNEL" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXQeLS7wdrdEwfZkupDLFFTzrMiwh4LrauXkW5WVccJ05w-HmS3dpZU807E1Au1Q8GWZ-2ANdOTyrgOvTvTDiwX8.png" group-title="RO ✪ DOKU",RO: TRAVEL CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVHlhaXBJajFJUlNkSG13eXpnZGg1NmI0dzJDYVJVQ3FYL0tOOUdLTHliaA
+#EXTINF:-1 tvg-id="Travel.XP.(HD).ro" tvg-name="RO: TRAVEL XP" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXVwAGHPrzWb5akmNIwWSZJASpIGNbOehSJpI2z8z4sLFg5ZjBiqlMvuv-eg4HWQOQ0z9f-I7_jAojCHJ7b2br0k.png" group-title="RO ✪ DOKU",RO: TRAVEL XP
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUjYzSmlSRHQ5RmtkZVR3ZTBnbHRITUdlb0tKRlJmTWhQc285MnJISVhuRA
+#EXTINF:-1 tvg-id="" tvg-name="RO: TRAVEL MIX CHANNEL" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yRyoBoM7oABH_e9A-qyABxKSk-k69R6lgC5k2mGgnoig.png" group-title="RO ✪ DOKU",RO: TRAVEL MIX CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUWU2a0E3ZG9jbWFmeWZIVjRnbDYvVTB1ZDFMYzFsTFJhSzEwWkNncHdXVQ
+#EXTINF:-1 tvg-id="Viasat.Nature.(HD).ro" tvg-name="RO: VIASAT NATURE HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yy55fTM_Jusw3jHczbOseY3nOW4ASbni3uf5gSQlpzWg.png" group-title="RO ✪ DOKU",RO: VIASAT NATURE HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZjE1SWVQcy8zb0lxNFJjT1drR004ekUreURzV05kcG1nNXc0UUhlSDVrSA
+#EXTINF:-1 tvg-id="Viasat.Nature.(HD).ro" tvg-name="RO: VIASAT NATURE FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yy55fTM_Jusw3jHczbOseY3nOW4ASbni3uf5gSQlpzWg.png" group-title="RO ✪ DOKU",RO: VIASAT NATURE FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWndIeEF6M3JHNHYrVmNXVThFc1pBaEcrMDJRbWdZL0h1b3N0V0tnN3BtLw
+#EXTINF:-1 tvg-id="Viasat.History.(HD).ro" tvg-name="RO: VIASAT HISTORY SD" tvg-logo="https://i.imgur.com/XSOmUCV.png" group-title="RO ✪ DOKU",RO: VIASAT HISTORY SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVE84QXRmVE5QT0JreWgwbjVSY2pCNHlabzhFeEdPd3pjdmZxRzJEOTZ5MA
+#EXTINF:-1 tvg-id="Viasat.History.(HD).ro" tvg-name="RO: VIASAT HISTORY HD" tvg-logo="https://i.imgur.com/XSOmUCV.png" group-title="RO ✪ DOKU",RO: VIASAT HISTORY HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVmI5aVR2UkhGSVVkbzJSeThVak1MRTVYYURTREtnTDhJUzNnTmFML2NkNw
+#EXTINF:-1 tvg-id="Viasat.Explore.(HD).ro" tvg-name="RO: VIASAT EXPLORE SD" tvg-logo="https://i.imgur.com/94YXRit.png" group-title="RO ✪ DOKU",RO: VIASAT EXPLORE SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV25UVmRkZHd0Q0YrdVJtcnJjVy80TjdOWUpVN2dBcTFCbE5uWXJMRFVLMQ
+#EXTINF:-1 tvg-id="Viasat.Explore.(HD).ro" tvg-name="RO: VIASAT EXPLORE HD" tvg-logo="https://i.imgur.com/94YXRit.png" group-title="RO ✪ DOKU",RO: VIASAT EXPLORE HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVy9DOGM4R2xnSEJYWmk4UU8ycjFQMDRpcUlmOWgxaTN5TlpxSzI5VjVDdw
+#EXTINF:-1 tvg-id="National.Geographic.Wild.(HD).ro" tvg-name="RO: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/IsXJVXE.png" group-title="RO ✪ DOKU",RO: NATIONAL GEOGRAPHIC WILD FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWng3RG55VXhZaER2TVdZREt3c1doVnNZWnpuWHRUWUhNNmloVjZCbHY3ag
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO WILD SD" tvg-logo="https://i.imgur.com/WKc3ISs.png" group-title="RO ✪ DOKU",RO: NAT GEO WILD SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWlFmT2o2V0hXdVRyT3V6amZ4Mm1uRHFIWWo2Vll3eHoyZ0RJaDFrbG5ITQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO WILD HD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3sJCP61zhnnduHFQZkcMHoecGv-XSFe3fBmVc_5tTxNWyMQTp83i4OgANs4_cUwwO6VLQO1fjvIOfe6C9K-9GOo.png" group-title="RO ✪ DOKU",RO: NAT GEO WILD HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVHhTZm1HQmFWTTF2OTRza2pkMFdaQ2RmdVIvUWtRY0I5TTZyU3JkdkVidg
+#EXTINF:-1 tvg-id="National.Geographic.(HD).ro" tvg-name="RO: NATIONAL GEOGRAPHIC SD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWmgaN6xH26FJil47b3_bq-p6beS3vOuoK1IFAWJL9Ett4vrnyopKvUJoMkuoRiFwYg.jpg" group-title="RO ✪ DOKU",RO: NATIONAL GEOGRAPHIC SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUTE5Nnl6WDV5VXhlSjVtTDJ4NFVhdUJoZk5CQTBuaEkrSktlZXF2OU9PZw
+#EXTINF:-1 tvg-id="National.Geographic.(HD).ro" tvg-name="RO: NATIONAL GEOGRAPHIC HD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWmgaN6xH26FJil47b3_bq-p6beS3vOuoK1IFAWJL9Ett4vrnyopKvUJoMkuoRiFwYg.jpg" group-title="RO ✪ DOKU",RO: NATIONAL GEOGRAPHIC HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZDE4WUFWUExWYzYwVGltZllrdHNrSzdkeGRpSy9vek4zcjBPRUZJbTZ0eg
+#EXTINF:-1 tvg-id="Love.Nature.(HD./.4K).ro" tvg-name="RO: LOVE NATURE HD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXXdykaoUj6pH2HpR4p4I7aV9kkJbvfzU_pT1mDNahYks1uYAPpE2s4P4u-IJrZdlKsxJ4RsuPUkz9x9qtrexKdo.png" group-title="RO ✪ DOKU",RO: LOVE NATURE HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVnJESXBsYUlkcGpNMmhQRzFyL3Q4d3ZzNnhDUm4rZUlSa2JrVW9HaGgwdw
+#EXTINF:-1 tvg-id="Love.Nature.(HD./.4K).ro" tvg-name="RO: LOVE NATURE FHD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXXdykaoUj6pH2HpR4p4I7aV9kkJbvfzU_pT1mDNahYks1uYAPpE2s4P4u-IJrZdlKsxJ4RsuPUkz9x9qtrexKdo.png" group-title="RO ✪ DOKU",RO: LOVE NATURE FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVERhNU1yVnVFcUE2SDZPS25lRUlTRm1DN3VuSGlreGNqMkV1clppaDF5TA
+#EXTINF:-1 tvg-id="History.(HD).ro" tvg-name="RO: HISTORY HD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXZThlT-wOtlHeSInUO8lG1Zw85gvay2gXGVLJVYwsRkqDoT0tSGHKLlfyKQtxkRdMdqiSM755davXLF-eIBpXQQ.png" group-title="RO ✪ DOKU",RO: HISTORY HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWWdjZEcwR1EzZkZkVTE1eGsxNStoUW5EUmltcURXUDVVNzQvWUZaWmU1eQ
+#EXTINF:-1 tvg-id="History.(HD).ro" tvg-name="RO: HISTORY FHD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXZThlT-wOtlHeSInUO8lG1Zw85gvay2gXGVLJVYwsRkqDoT0tSGHKLlfyKQtxkRdMdqiSM755davXLF-eIBpXQQ.png" group-title="RO ✪ DOKU",RO: HISTORY FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZFNHSU1xRjEyQjRoSUhGTGNmeFYyRERuQlhaS1JNdlRwQ0N3VmUrVlFUVw
+#EXTINF:-1 tvg-id="Discovery.(HD).ro" tvg-name="RO: DISCOVERY ID" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXWOq2SkeaAKKWv-G7YMpzDuHp0kqKFS-rvJkx8Gsp3QtjmYKWLcyF2IPIIYiNBGHDcwqlahyq4va0swAzBvpLlFlUgGl8xKj8HOoOCfSjltE.png" group-title="RO ✪ DOKU",RO: DISCOVERY ID
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZmFTQnlrcDc3VTdkVE1mNWdHUmJQakJHb2FnYml4cHdMVmpRM0gvWWxIOQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY SCIENCE HD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXUHJ7vSUu6bRPDrTe2_oP-osrHSz-runukEVYXh2Rv0YMixW2YGfYhBiQVlYAMpRb_1xiuORhctD9NK5-58vuTY.png" group-title="RO ✪ DOKU",RO: DISCOVERY SCIENCE HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWUpHREJWR09mWU5jVzUrNS9Rb1BDRHduZFovVStPb1dpY1ZRemtSOCs4YQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY SCIENCE FHD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXUHJ7vSUu6bRPDrTe2_oP-osrHSz-runukEVYXh2Rv0YMixW2YGfYhBiQVlYAMpRb_1xiuORhctD9NK5-58vuTY.png" group-title="RO ✪ DOKU",RO: DISCOVERY SCIENCE FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWW4yajhCaUNmZEVtRSt5UUJGY1QwYlE3NlFhUFRFRHU5aXJqVHlCc3dtYg
+#EXTINF:-1 tvg-id="Discovery.(HD).ro" tvg-name="RO: DISCOVERY CHANNEL" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXUHJ7vSUu6bRPDrTe2_oP-oCvmA3AjEl7zh-pE9YMsJiLVIbYfO7tSGoooxVX9AQww3MCAwJHXTX0h3Bh94Hq0U.png" group-title="RO ✪ DOKU",RO: DISCOVERY CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWlI3T0hHYmZUNU1TYURXa2Z2TC9ib3FqK0V2RXJhSEpjc1hUTWo1d2YyTg
+#EXTINF:-1 tvg-id="DIGI.Life.(HD).ro" tvg-name="RO: DIGI LIFE HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yyTKuLS5re0Hul2DecI5AYwUwjJsDpUwVMTH0z_nZXxA.png" group-title="RO ✪ DOKU",RO: DIGI LIFE HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWTB4OTZhM0hrSmVRYm8rUXJpSVVnV2xBcTlVVFlRUC9iY0VvQ01XSzZ4VQ
+#EXTINF:-1 tvg-id="DIGI.Life.(HD).ro" tvg-name="RO: DIGI LIFE FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yyTKuLS5re0Hul2DecI5AYwUwjJsDpUwVMTH0z_nZXxA.png" group-title="RO ✪ DOKU",RO: DIGI LIFE FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYzM1NWhhVzNEdndERDdEWU5XMUZjVHFmcDFKVHFqbGFYdDlrWUtUMzUwZQ
+#EXTINF:-1 tvg-id="DIGI.World.(HD).ro" tvg-name="RO: DIGI WORLD HD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3s6Vn1KcHYJ0oSD4fYfkKUs3NcAmZ8KWk4d8zzSk12E5w.png" group-title="RO ✪ DOKU",RO: DIGI WORLD HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArU2thTjdCMHl0TmluZVlzbjlTZjdXUFp2VUdVeXFGS2ZtWElSa2xYRDJNWA
+#EXTINF:-1 tvg-id="DIGI.World.(HD).ro" tvg-name="RO: DIGI WORLD FHD" tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3s6Vn1KcHYJ0oSD4fYfkKUs3NcAmZ8KWk4d8zzSk12E5w.png" group-title="RO ✪ DOKU",RO: DIGI WORLD FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYzQ1K3dPeHpWT1gyMWV4dkt0NG1CMW9ldTFodGZ4VXd3bFJFekk0M0xSaQ
+#EXTINF:-1 tvg-id="DIGI.Animal.World.(HD).ro" tvg-name="RO: DIGI ANIMAL WORLD HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9znb7pycoJEVTY2LDEGLl-0lz7h8T_ya3bABMwK_AsbnNQifx34TDtEWlqOJ4By0Zg.png" group-title="RO ✪ DOKU",RO: DIGI ANIMAL WORLD HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYllvOFc0S09ZVllSWXJnK2lDV0R1Qy9vb1hoWmQ2WEhDVStDcVBDR0p3Mg
+#EXTINF:-1 tvg-id="DIGI.Animal.World.(HD).ro" tvg-name="RO: DIGI ANIMAL WORLD FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9znb7pycoJEVTY2LDEGLl-0lz7h8T_ya3bABMwK_AsbnNQifx34TDtEWlqOJ4By0Zg.png" group-title="RO ✪ DOKU",RO: DIGI ANIMAL WORLD FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVkxHVTZSeVRNd2E4ZEVqbFNRTnBrM2RvMU9FWUp3ODhwY3dqc01UbEplKw
+#EXTINF:-1 tvg-id="" tvg-name="RO: DAVINCI LEARNING" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wVwKExrZQsxvDnb7SfmVX2eInnbTh4Xiamt2HGQKH0dg.png" group-title="RO ✪ DOKU",RO: DAVINCI LEARNING
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWXVTUnExOTY3RFNSaHYxKzZZK3pST1B6c0tvajJibGRldnlsR3RNOVRIKw
+#EXTINF:-1 tvg-id="Crime.+.Investigation.ro" tvg-name="RO: CRIME & INVESTIGATION" tvg-logo="http://oktv.online:8080/images/DPqpU_e7i6G_cnTaZtR9pZ_aVaTYZcJQ7q4SeCbDwx-VxXZwBCYoXYTYVmRo5wLfk-Ey4GRIAYKl9P68nbN1-w.pngng" group-title="RO ✪ DOKU",RO: CRIME & INVESTIGATION
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYzBzVXNhMi91YkhnYzZaSDltNFNPWXk1bGlCT3J3R3hSY0Nic3Vscjh0bQ
+#EXTINF:-1 tvg-id="E!.Entertainment.(HD).ro" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXRdrmhq9qoUUp5waFEdxpjH3snjGpEPKeDxa62-CFxMURG22BMfUHXDn-6CmfztkYFpMg0Q_rscjZ7D29Lv1ES8.png" group-title="RO ✪ DOKU",RO: E! ENTERTAINMENT
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUjYydjZsbHRCTU9PR0tXQStTcTRhempsdERLa2VzRWk2Zi94VlVtckFocQ
+#EXTINF:-1 tvg-id="BBC.Earth.(HD).ro" tvg-name="RO: BBC EARTH HD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXUjOkltDmxapcpTGvMHFUpzA7zco_G92Dj0uPGtqAbJ8PpSjGINfxjX-YivBm8OSL1Gh0hYhvXB-StpR1CY6n18.png" group-title="RO ✪ DOKU",RO: BBC EARTH HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUVdoeDh4NmdnV1U3b1ZadEdYZXpuS0hDRGhuWUEvOS9IYWFiQ3ZKYy94Sg
+#EXTINF:-1 tvg-id="BBC.Earth.(HD).ro" tvg-name="RO: BBC EARTH FHD" tvg-logo="http://xc.contact/images/s-g4-CyW8ho19ZxmthkPr425uWVxaIJWfOJS-Krd0UXDvlj43FiDh1PM1FPQ-WFnlvzOVL3LGHQ1rz13x_OuXUjOkltDmxapcpTGvMHFUpzA7zco_G92Dj0uPGtqAbJ8PpSjGINfxjX-YivBm8OSL1Gh0hYhvXB-StpR1CY6n18.png" group-title="RO ✪ DOKU",RO: BBC EARTH FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWHM1QmZTMzlobktyeDBDdnVrbWY3d2xVVitBeUVicHNuT0lsL3VsVFJoSA
+#EXTINF:-1 tvg-id="Animal.Planet.(HD).ro" tvg-name="RO: ANIMAL PLANET HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xHWjViO6LucXWqwLoQDJ4utSm_A0AjGTFsQxc1i-9Q6Q.png" group-title="RO ✪ DOKU",RO: ANIMAL PLANET HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWGh6NjJvamNvSkNmbmxDT2ZkRDRMRlNrVkhTMkdGMnJ3UU5SNnJOaGxpQg
+#EXTINF:-1 tvg-id="Animal.Planet.(HD).ro" tvg-name="RO: ANIMAL PLANET FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xHWjViO6LucXWqwLoQDJ4utSm_A0AjGTFsQxc1i-9Q6Q.png" group-title="RO ✪ DOKU",RO: ANIMAL PLANET FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY0x1R3IrTHlRVzh3TWZsZFpyOGp3Ny9XOUl1c1VDdXRYdWVRQitHWTlvNQ
+#EXTINF:-1 tvg-id="TVR.Sport.(HD).ro" tvg-name="★☆★ SPORT ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/ro.png" group-title="RO ✪ SPORT ",★☆★ SPORT ★☆★
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZmVYck1nRlFGcUJQQ3d5bHFQMmhMQTV1aUNGb2pOL0NaVGJuOEdhenlabw
+#EXTINF:-1 tvg-id="Dizi.(HD).ro" tvg-name="RO: DIGI 4K" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH_k9hPgpUdesJOpsrwQd69WiKCLLqA6e4m6ku7JW0NS3.jpg" group-title="RO ✪ SPORT ",RO: DIGI 4K
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYmVJdXhFQUJER0JEVEVLZXZIRjd0VWdhWW5rUGpGYWF2MWxrdWlhZ3pvMg
+#EXTINF:-1 tvg-id="DIGI.Sport.1.(HD).ro" tvg-name="RO: DIGI SPORT 1 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH9TltcizMjcXAUhEh5GVuLwycTGIBvTyOFepjrMOOpBfp_2JHQPPguZ46ZK4HI7lJrsMcH_FQiGoQjxVqBA_ky3uZBUS3pBWRmxCppPH_Ij7Nz3dbX9WtKPUq_kkDTvmYA.png" group-title="RO ✪ SPORT ",RO: DIGI SPORT 1 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVmFqbUNkai91K2VycjVCcW50WXc1Qjk3MmpBTi9xNHNsVUVuMFNqZjRoVQ
+#EXTINF:-1 tvg-id="DIGI.Sport.1.(HD).ro" tvg-name="RO: DIGI SPORT 1 SD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH9TltcizMjcXAUhEh5GVuLwycTGIBvTyOFepjrMOOpBfp_2JHQPPguZ46ZK4HI7lJrsMcH_FQiGoQjxVqBA_ky3uZBUS3pBWRmxCppPH_Ij7Nz3dbX9WtKPUq_kkDTvmYA.png" group-title="RO ✪ SPORT ",RO: DIGI SPORT 1 SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYzdGY3RIM0FMc1dHRGlmOXFEdkxLVmpxU1dwN1h3ME9nL0RBNk50aXhTVw
+#EXTINF:-1 tvg-id="DIGI.Sport.2.(HD).ro" tvg-name="RO: DIGI SPORT 2 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH9H1m8RF3yqPsT2oTav3-Up9SE0K44q_gnLrQbzqXxzRtTq7-clYxpaC3gOwXxYIBw.png" group-title="RO ✪ SPORT ",RO: DIGI SPORT 2 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUjNhbE9jYkFCbEtTNTQ3eUhZWnJXYUVFQjNtY0hBUTdWd0Rycm5oVmpNQQ
+#EXTINF:-1 tvg-id="DIGI.Sport.2.(HD).ro" tvg-name="RO: DIGI SPORT 2 SD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH9H1m8RF3yqPsT2oTav3-Up9SE0K44q_gnLrQbzqXxzRtTq7-clYxpaC3gOwXxYIBw.png" group-title="RO ✪ SPORT ",RO: DIGI SPORT 2 SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVmZpTmpFVmVBWGR5dTNWWktPTkdhellqcktRV0ZvcFBXZVMvc0t1S0RYVg
+#EXTINF:-1 tvg-id="DIGI.Sport.3.(HD).ro" tvg-name="RO: DIGI SPORT 3 FHD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwIjcjcRX2VN0ilhQPVxIKkb3y1ZYWqkXPgeO8WWDFkHa6XwAs333IaSpKJumiE_IA.png" group-title="RO ✪ SPORT ",RO: DIGI SPORT 3 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZHU3YmxpcStPR0F5SS9zUXlQYVRqVFZVSmpnYzlOWk15WkpXL1BDOXM3dQ
+#EXTINF:-1 tvg-id="DIGI.Sport.3.(HD).ro" tvg-name="DIGI SPORT 3 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwIjcjcRX2VN0ilhQPVxIKkb3y1ZYWqkXPgeO8WWDFkHa6XwAs333IaSpKJumiE_IA.png" group-title="RO ✪ SPORT ",DIGI SPORT 3 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVitYeHZaRnhpaEszL3EzQU1wbys5cm5naWt2UnlWSkdOVjNPZllsQzBQeg
+#EXTINF:-1 tvg-id="DIGI.Sport.4.(HD).ro" tvg-name="RO: DIGI SPORT 4 FHD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH6KcXeHvBfSO30MdmaubUIrHVOnYhkw9D-elUWL8QIHtwyBi0wo-0KsgzMX3nrT82A.png" group-title="RO ✪ SPORT ",RO: DIGI SPORT 4 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUUc1azQ1V05UeXJFMnhrTlBSOGZ5Ulk4ajZrM0pZT1I4eUo5Uk5sc0hMeQ
+#EXTINF:-1 tvg-id="DIGI.Sport.4.(HD).ro" tvg-name="RO: DIGI SPORT 4 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH6KcXeHvBfSO30MdmaubUIrHVOnYhkw9D-elUWL8QIHtwyBi0wo-0KsgzMX3nrT82A.png" group-title="RO ✪ SPORT ",RO: DIGI SPORT 4 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYmVCdlNVNVZ2Qzhqam5Rb2pjY3VjS2o2YzVpTWtGd0Y4dVEwZEpBZTRJVA
+#EXTINF:-1 tvg-id="Eurosport.1.(HD).ro" tvg-name="RO: EUROSPORT 1 FHD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH-RWj1A3KRUCJmJMJtUngSETvp0zTHeGk0t5Tsosend8YKfVwK_Ech7uDWio5AbAar9ebkjDMJpkErLK7ANdjqQr7YVdFR8LroP4pXy5jAxT.png" group-title="RO ✪ SPORT ",RO: EUROSPORT 1 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWmpYZlBVMk1ueEs5MHdvQ1h0cWxWdFVXNWN1bExoM0l5dkJsRVJkYWpDbg
+#EXTINF:-1 tvg-id="Eurosport.1.(HD).ro" tvg-name="RO: EUROSPORT 1 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH-RWj1A3KRUCJmJMJtUngSETvp0zTHeGk0t5Tsosend8YKfVwK_Ech7uDWio5AbAar9ebkjDMJpkErLK7ANdjqQr7YVdFR8LroP4pXy5jAxT.png" group-title="RO ✪ SPORT ",RO: EUROSPORT 1 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVHhaeXBibUo0eFRTcWN2Zmh5OFhtRXpyZ3V0TE9aNE9HOXRicmYrQWFaSg
+#EXTINF:-1 tvg-id="Eurosport.2.(HD).ro" tvg-name="RO: EUROSPORT 2 FHD" tvg-logo="http://xc.contact/images/-xBj8dlEcFtZrqjwpOpDX68e3DiJY-jumWZFic9gxHfFHdvW5AS0rSmCbXNuy1EMCBQBVsKMaP9elm7oBPr_9ZfU049GZMeo2bEm94RWVXlIfiBwIswAOBA7N9w5czGEd1H8giOcdub85JvLUdDBvVZ9q_9Gfc_thYT-WmzbDw4.png" group-title="RO ✪ SPORT ",RO: EUROSPORT 2 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVERPbG1MempWeFNQMjVpS3AxZ3RaaGQzbkpCRHo2SS95VUxqRWlvMGROTA
+#EXTINF:-1 tvg-id="Eurosport.2.(HD).ro" tvg-name="RO: EUROSPORT 2 HD" tvg-logo="http://xc.contact/images/-xBj8dlEcFtZrqjwpOpDX68e3DiJY-jumWZFic9gxHfFHdvW5AS0rSmCbXNuy1EMCBQBVsKMaP9elm7oBPr_9ZfU049GZMeo2bEm94RWVXlIfiBwIswAOBA7N9w5czGEd1H8giOcdub85JvLUdDBvVZ9q_9Gfc_thYT-WmzbDw4.png" group-title="RO ✪ SPORT ",RO: EUROSPORT 2 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV2Y1N2d6VzlFZjFCNGRJT2R5ODRCV0pLS0hjaVhHeW5nbTI5dHU2M1c1VA
+#EXTINF:-1 tvg-id="PRO.Arena.(HD).ro" tvg-name="RO: PRO ARENA HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH113ClZhFKm9uw_sSeu2uP-tG3M6Tu5jNXVWytGCaEFq.png" group-title="RO ✪ SPORT ",RO: PRO ARENA HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVjlhZ2ZvZU5iNVZrOHRzaUNXekQ0YUdnUkYxYUVtUkNoUzk5cUN2Uk5IRg
+#EXTINF:-1 tvg-id="PRO.Arena.(HD).ro" tvg-name="RO: PRO ARENA" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH113ClZhFKm9uw_sSeu2uP-tG3M6Tu5jNXVWytGCaEFq.png" group-title="RO ✪ SPORT ",RO: PRO ARENA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUlBhekR1dDBSSkRITnkzR21ZWUc0V2UzY3k4djJ6dGN3Z0s3emZEQ3RKOA
+#EXTINF:-1 tvg-id="Prima.Sport.1.(HD).ro" tvg-name="RO: PRIMA SPORT 1 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4fU9xsTKgvX6TPvo4ownEBK_eoM9K9vXtF7LwLnKB5HqdUnXYvqmzUbtPUyqeVkjA.png" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 1 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUXJrekZsdkZJMmh1K2h6UVl3WStnSmpLUnBjYXBMVmpjR2xpWmxlVG5DTQ
+#EXTINF:-1 tvg-id="Prima.Sport.1.(HD).ro" tvg-name="RO: PRIMA SPORT 1 SD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4fU9xsTKgvX6TPvo4ownEBK_eoM9K9vXtF7LwLnKB5HqdUnXYvqmzUbtPUyqeVkjA.png" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 1 SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZFRpcWZHWDc4Ris2T1dMVDU2dDVic0NIMWNkd2lpS2d5bUNmWUN4bGRMMg
+#EXTINF:-1 tvg-id="Prima.Sport.2.(HD).ro" tvg-name="RO: PRIMA SPORT 2 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4fw-QSkW1HfP6z_0SOUZB9GOEp_5ge15dyqXvLqkZDpYzYYVPWQ_uMEEDVdwo_lIw.png" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 2 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYTZydmNKTHhjZk83L0ZpR0lQV09KZlpjU1A0OWJ6RkJ4UlA5aElUVEVpTQ
+#EXTINF:-1 tvg-id="Prima.Sport.2.(HD).ro" tvg-name="RO: PRIMA SPORT 2 SD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4fw-QSkW1HfP6z_0SOUZB9GOEp_5ge15dyqXvLqkZDpYzYYVPWQ_uMEEDVdwo_lIw.png" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 2 SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY29PVXBBK0F5ZnF5QXhGTGp6SDFJT1hESVFxKy9HSXllZ21VdmRNSGc3Rw
+#EXTINF:-1 tvg-id="Prima.Sport.4.(HD).ro" tvg-name="RO: PRIMA SPORT 4 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH-TU7ReDIY4zz72yqKIiFvWGeb6gcPJEXDBMWkWnq6KksEs3qOPngtbJKK_Ldeq02QXlLwX_5Pnj7NLUxuWSMZzjJXNjmqZvOdoueLnXNKa999i2DlAxc6RLeDAzGWbkig.jpg" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 4 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWjlXWlJMazZiOVVjZ0pNRGVFRFZDTVZlRUh5VGE1eVdwYzRSUW1ENFluSg
+#EXTINF:-1 tvg-id="Prima.Sport.4.(HD).ro" tvg-name="RO: PRIMA SPORT 4 SD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH-TU7ReDIY4zz72yqKIiFvWGeb6gcPJEXDBMWkWnq6KksEs3qOPngtbJKK_Ldeq02QXlLwX_5Pnj7NLUxuWSMZzjJXNjmqZvOdoueLnXNKa999i2DlAxc6RLeDAzGWbkig.jpg" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 4 SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUko5MXVlZXpsT1gxbjFDa2JMTWhVbUt0eDd0QUxFN3R6L3gyNG85YVRJWg
+#EXTINF:-1 tvg-id="Prima.Sport.3.(HD).ro" tvg-name="RO: PRIMA SPORT 3 HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwXNTbNgpkV28xUqmgok8POhAx-nKvIQUC4MTi030cIA_B-bz8Q5uYgvSpFyxyjViw.png" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 3 HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWlpmeVdwUC9GSmZwYUR4RUpKOUYyUG5iOTY5aUE4aFpjU2F6d0JieWRZYQ
+#EXTINF:-1 tvg-id="Prima.Sport.3.(HD).ro" tvg-name="RO: PRIMA SPORT 3 SD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwXNTbNgpkV28xUqmgok8POhAx-nKvIQUC4MTi030cIA_B-bz8Q5uYgvSpFyxyjViw.png" group-title="RO ✪ SPORT ",RO: PRIMA SPORT 3 SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVm1iZWNUa1Rnc01PNUpodzkrWjBqRkdGby9VdVQvT2xWNVZ1dmJpeWxrUw
+#EXTINF:-1 tvg-id="Prima.Sport.1.(HD).ro" tvg-name="RO: ORANGE SPORT 1 FHD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH6AWFN6Vi9gMClwu2gRpwOUjmx58l6PuMHj5OcmZO6DWYdsvh3x0oA0xgwAtdc_-hQ.png" group-title="RO ✪ SPORT ",RO: ORANGE SPORT 1 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArU0Y3Y29mUlUrZU55bHBtVjRJbVl2WTJWSnV4aVlTTEhUZHNZRXZuNlRELw
+#EXTINF:-1 tvg-id="Prima.Sport.2.(HD).ro" tvg-name="RO: ORANGE SPORT 2 FHD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHz0g0deTRP93aRyPvOLuUrQwoOntpm6weyQ5BnOIcgav3ySFGL3DOxjonot-jGV_VA.png" group-title="RO ✪ SPORT ",RO: ORANGE SPORT 2 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV2h0U0tBMm0vWUdjaDhkWnZoY3BDc1oyOU1wVVNHd29IdkorSldKWjJ2OA
+#EXTINF:-1 tvg-id="Prima.Sport.3.(HD).ro" tvg-name="RO: ORANGE SPORT 3 FHD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH1TC0G_pguEcBGmmU1g9e8iiViEWz096hIAaeyl83S6EjZSKsUTlxHXEdLs5tk2Dqw.png" group-title="RO ✪ SPORT ",RO: ORANGE SPORT 3 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYVdJTEJ2WEpoVTBrTDZ6MHdwcWhkYlN4YUtIYndSS1NSY2hpVG5QQStocw
+#EXTINF:-1 tvg-id="Prima.Sport.4.(HD).ro" tvg-name="RO: ORANGE SPORT 4 FHD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH6YxD6sxN0YJkcU3Yqx8tI29-2E2vYlBFw2-bhzaP7mjep8ue3CTxlevDTwXbb2Afw.png" group-title="RO ✪ SPORT ",RO: ORANGE SPORT 4 FHD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWnJWVmZrajJWYXpwMFJGUkF2ZUdZYlZ0OFErbDVWMFVUOTNRQ2d6Zkkwcw
+#EXTINF:-1 tvg-id="" tvg-name="RO: EXTREME SPORTS CHANNEL" tvg-logo="http://xc.contact/images/G__qAxeDEh-CvCfnTZss-W86rob3S21M0xTWcRFl1aJCbZG6nppTMF5lsCE-hRhSIBAWd0bq9SkzzSD1KB-q0BGBEQix_jBMgcjcLQHwDsowuIgGpfk_Z_k46sttemVG.png" group-title="RO ✪ SPORT ",RO: EXTREME SPORTS CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYVAwRVovcVU5ME1DM1NmZlNCMEM3K2l1UmFSaGJocWsyN0VtVUxEKzdlUw
+#EXTINF:-1 tvg-id="Sport.Extra.(HD).ro" tvg-name="RO: SPORT EXTRA" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHww2DUaIdHD8mFZ7PCAY8KfoQ027sSScATaAU5cbaq_nkZERknYqMrU-FH1qbc3iytHQrHEWKQrxob0BYBc-CV4.png" group-title="RO ✪ SPORT ",RO: SPORT EXTRA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWjVhd1g3MTBjY2xRWFV1MjBLNXpjckhFWXkzUC9lMjIrWlQxMzZ1bExRcA
+#EXTINF:-1 tvg-id="" tvg-name="RO: LOOK SPORT 1" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH6r1shABHLSzMXjo-g4q9UuXm2rOJ68hK82r2ghw8XqNuM7jM22aj_tnd5I8yyK0m86qdtE8U4qPAvHJ0O-tgTfPFIBCD11A6fA-z6rGCFwF.png" group-title="RO ✪ SPORT ",RO: LOOK SPORT 1
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWHpuQVk2SmRGOEp5V1FBSTd0aFZDcTM2Y09kZGVkSE8zdGpPdWlMME1vMg
+#EXTINF:-1 tvg-id="" tvg-name="RO: LOOK PLUS" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH_-4_VvSMv2-Xrl-P3ArphjrN51vPq-3gXUuZt-dpxEit5ZFo287hnK5aTXce1uAVB5BtjDpRvKJQa8WQ96MwnSrORSdx6kLxCRGrz2g7MN2_fTi6WQQGeBB6UGf94HMgg.png" group-title="RO ✪ SPORT ",RO: LOOK PLUS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY0x2NlhoL0w1WHNoSFJtV3BTRDNnU0h6ZjVIMlBkeXVZeGhnZTk0STAwaA
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ KIDS | COPII ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/ro.png" group-title="RO ✪ KIDS/COPII",★☆★ KIDS | COPII ★☆★
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV1BaaHNRTTYxZ3Z6SkgrS2picm5zbkY0Y0hCODA3SDNpZnB0ZFN3V3hlQw
+#EXTINF:-1 tvg-id="" tvg-name="RO: BOOMERANG" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH83VCJQVKLqrmYaMGWzf85OJ_QGc6sCelSnXAIYJOmjgi-3YVm9olAXSJfdGaMoH7pHXK2dgWVMbHfqkYWLFHEI7O3ykSDQS_pPlnhAtSJMI.png" group-title="RO ✪ KIDS/COPII",RO: BOOMERANG
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZWwrWUtEaGtsWFNodEFzdEpMSGp4bGRDQ1pxeUpwS21GcXk5TmNhM3JlcA
+#EXTINF:-1 tvg-id="Cartoon.Network.(HD).ro" tvg-name="RO: CARTOON NETWORK" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH8vfdO7Sawvv8IYGP0zQCsOGhpCKDfvu29gJldpPHvQAO7kSwIXwtnA-oLQP34J3lLkONftrNv502gxFeH0aIGVFROk-AKbYxB7JZo4tQKRH3FgBKGng22RiaYwOanr-B7HCCd4FsFzi4uxye3L4V_SqsDDYDHk6k1BwZHTGBntl.png" group-title="RO ✪ KIDS/COPII",RO: CARTOON NETWORK
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVkVZN2RRaStpNUdWRHpOaHZkdCtRclFXTXV5Ym1NSk1kNlVJMllxQVhHbA
+#EXTINF:-1 tvg-id="Disney.Channel.ro" tvg-name="RO: DISNEY CHANNEL" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwU644odsdO6qZC_IwXIDWK9Q3NEWIxcf2gyCZHYIbPZRpHDo_V-FiOzvryiZ_w_Lhr5fffiECI07VNUbYTkW63brisy8BRGID7R4SF2Ei3Z.png" group-title="RO ✪ KIDS/COPII",RO: DISNEY CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZUw3V2RoSVU2cjZxQTJiU1d6QzE4TmdjV0Ztdy8vNnhvUHlpellaVHBJZA
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISNEY JUNIOR" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwCsWis42EO3Q9e4c8zovJAruPE4soGEOJJWIZI1fBKyzkQ6JXri5ga52nX_MVm4RQ.png" group-title="RO ✪ KIDS/COPII",RO: DISNEY JUNIOR
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArV3htRkNvUkdZNk80QWozSWxOZEtmOUs0ai9LeW5yaWxmQjRWNHRsY0dZOA
+#EXTINF:-1 tvg-id="Duck.TV.HD.ro" tvg-name="RO: DUCK TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH-i-12YwlKTaVvoK3XKgL0JiiNjp5Z3JB7FcTvdlK_kimrwQz8dVrnxLIPwaXctmsjQG3irXPrAma4NfNQ5U6RKKc2w4A9PmLkqgnn92ctQXJ52vMcksCA3x9yFFGpadEQ.jpg" group-title="RO ✪ KIDS/COPII",RO: DUCK TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWHJWWDU1aldNVVc2bVg4a3c1eU9iMTJ1UE13Rk1qTXRJaVAvSzFXY05xTA
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="RO: MINIMAX" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHzVR8vuZ0N6HkDA15EFj6ErKncXo95yeshUDhrBvs_eSM-CX_mZspRqjB98_zDY9SWNlC0UMU-a6yWtucHNG5KlJxYREn4MamqFzyFNl7ksavJ8ScO6QHWIzVf249MtLoQ.jpg" group-title="RO ✪ KIDS/COPII",RO: MINIMAX
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUSswb1FWcFo1cmkyWG15K0ZITlhpRFEzRkdtd1Q4SW9vckJBcXhQS050RQ
+#EXTINF:-1 tvg-id="JimJam.ro" tvg-name="RO: JIMJAM" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH8p2f4QciOIwKWLIoynKRT31mXYLehPg5jWEqgqhePFZ.png" group-title="RO ✪ KIDS/COPII",RO: JIMJAM
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZUswRWRSOTc3bXJGeWdNMnd3ZGZzd0lnUnhENFJzL3VHZkduUmhUSUJvdQ
+#EXTINF:-1 tvg-id="Nick.Jr.ro" tvg-name="RO: NICK JR" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH2z2-fX723R8aWQ8a7S5JQIkE4BzQdvkL8P1KXvg6DkvAtuMEMnBDN9nEOqF6HNbZ3yDonPDZHvP_T4rWI0ekU1TrAWwU8snV_DnH5EX-A4l.png" group-title="RO ✪ KIDS/COPII",RO: NICK JR
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUlBDV3RybFVaUkxvMHlnMlk3MUxMVFV2MzNkZnNhWTN3b3VzMTBzSFJwSQ
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="RO: NICKELODEON" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH7dQdeI_ddNEUa0W0TLgbsVVzOJgbQJOwV3HbQBnM4KpoEekyY6UrgmUl8_DSa4MPg.png" group-title="RO ✪ KIDS/COPII",RO: NICKELODEON
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVExZdC9zcXdWZE0vZ1JsNVlGQzE2UVg4MGdvV3duaENjaFVIN2IwZndsdg
+#EXTINF:-1 tvg-id="TeenNick.ro" tvg-name="RO: TEENNICK" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH0jkKPMw4R5ArsNYgFJ4l2FR2TCyCg7RgA9Fqfx5M32c.png" group-title="RO ✪ KIDS/COPII",RO: TEENNICK
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUXcrK3FJSWV5a1UwM21zb0psS1VmV1pOSllGV0lBVFdjdks2ZXlRVFZDdQ
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="RO: NICKTOONS" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4vD1Hc0fUF7z52j2r4z8ao1u4v5Saq9PzFyuc0r13FCipiSxM5B2cWIZCHgQBVNnrHDdM_gTKGjWRJlxtkdil_tNg2uZd-JOn6EfRY_2hrk.png" group-title="RO ✪ KIDS/COPII",RO: NICKTOONS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVzk1TVdDY2EzblUxSGg2MjBUVFRQL1NOUWFkME9vVGRVblBrUTE0V3RBQw
+#EXTINF:-1 tvg-id="TraLaLa.TV.ro" tvg-name="RO: TRALALA" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwo11Jo062SLdUDyaz2Rn8MWqVFTsIlRNfG4obNNN16ie9HqTx5f9ygPyF51gwpzZQToms2Cwc1KKRYAvcvUZ1YiGNIPzVnNIBRtU7R07XUFaoyga28WKnECxZMKxzGfuQ.png" group-title="RO ✪ KIDS/COPII",RO: TRALALA
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWEJxS04xVWtjbmRLMlpqTERRbWFTVSt2Y2R4MjN5cUE1UDNicVVOSDgxRQ
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ MUSIC ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/ro.png" group-title="RO ✪ MUSIC",★☆★ MUSIC ★☆★
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYlY1WEtYRUkrTStEc2Y5SGp2N2dkMUYxYkVqZWEySzdQZG1DL3BnRGU3Sg
+#EXTINF:-1 tvg-id="" tvg-name="RO: UTV HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4BskhtDcA-kO4IbsOi11LW4eqCVwsG3P4T6VtlitDnv.jpg" group-title="RO ✪ MUSIC",RO: UTV HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVnFXbW9PVTMrY0ErUGszbnVKd1Fad1NWNWx5S1ltVkpKNnF5dWVuS0VMZg
+#EXTINF:-1 tvg-id="" tvg-name="RO: UTV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4BskhtDcA-kO4IbsOi11LW4eqCVwsG3P4T6VtlitDnv.jpg" group-title="RO ✪ MUSIC",RO: UTV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZG9IYzhDb09PTEZxdWtvd1NGTXJGTjFnVHRhdWRPMmFRUTFCdnhZbnI1MA
+#EXTINF:-1 tvg-id="" tvg-name="RO: KISS TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHyh61enflbrXBPtUnPjD6MIMnfPxc-173mETy4EKSoqtvk7PfSFxCybv-CpaFEZ-Sez1QbzjLIl36mnUIsNWdM1FYYSTncrEzzFMl6GxGEXYMqUWAih5trbVqPXh7uleAQ.png" group-title="RO ✪ MUSIC",RO: KISS TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVzMyeXdQMmk0UmVDWm4zd1JiUFhPODlJRFh1OFdSL3FTWFJ2UE9ZOStSaQ
+#EXTINF:-1 tvg-id="ZU.TV.(HD).ro" tvg-name="RO: ZU TV HD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH9a1845SBWj2R9uPWmdLcdxhWTzCGiVKjjPgHcKF603N.png" group-title="RO ✪ MUSIC",RO: ZU TV HD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZC9ueEtPa0JKVXllc083bjZJVWtRcUU2QVcrRlBRbEUzTE9nMGdFcmoyaw
+#EXTINF:-1 tvg-id="ZU.TV.(HD).ro" tvg-name="RO: ZU TV SD" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH9a1845SBWj2R9uPWmdLcdxhWTzCGiVKjjPgHcKF603N.png" group-title="RO ✪ MUSIC",RO: ZU TV SD
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVTFUdVhSYXczc0JBZW1LSzUyVVB6MW9wVHNSVG9Cdkk3Ty9YVkFaTS9Zdw
+#EXTINF:-1 tvg-id="Mooz.RO!.ro" tvg-name="RO: MOOZ RO!" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwu-4WVBHLuHfoVFDd8zUYwgLeoX4EPWeopssQx8swH0wmYARaWFDG3jH9QyMkFT3LP-Is_h5YP5IzZrWrmuNyQwAyzl-wP0Kiut3tcUdesjOzIvCs3oLTF3cWllFslMIA.jpg" group-title="RO ✪ MUSIC",RO: MOOZ RO!
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVGIxVlJmdmd3N2NWdVBKS3RLRzZqbjdTdlJwazdWZGszRG5TaFpRMy8yYw
+#EXTINF:-1 tvg-id="MTV.Euro.ro" tvg-name="RO: MTV EUROPE" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHzTjkAsd-Y__R3qJkCmPR5zrG6a4HknvHZMviB2nwoW7.png" group-title="RO ✪ MUSIC",RO: MTV EUROPE
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVTdKcngvUFZweXZTelNLYlBBc3oyb290Y2Z1ZzV0c0EvZ3hzVFI1RlhmTw
+#EXTINF:-1 tvg-id="" tvg-name="RO: MTV HITS" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH52fKGmFO_7tjk7-otM5-fqFJljWUOicBtfzNxZTFl3taioYaueapznT-mNAbK5fAgxX__TZ8nKkL5QdikLmfNb_ZTueSxJeRE2BZAgw6iSINM2dNm6qhhCfmclpehh_Rg.png" group-title="RO ✪ MUSIC",RO: MTV HITS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArY1RqNDdnMDFVUWtVZXdJaFVQSHhhc1BkaDBpM2NvQ3VJaW00S1VrNnJiUQ
+#EXTINF:-1 tvg-id="MTV.00s.ro" tvg-name="RO: MTV 80S" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH0Qk5l_UuCzz_bluhJPGFaLkRo0ZfDyfMaeKuLW90UDfxNL52cvWTPI9_itMZZ3hFmAmVm1mzEz4yABChpGnLYLQyjUWwddwPPTF6PvBZOE6BzROvu-ddfjMXl0rd45dKQ.jpg" group-title="RO ✪ MUSIC",RO: MTV 80S
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZVIwQm9QVzl0bm1wVjYxU2lZV012cGxwb09xNEdyeDdVb0ZNcW9OMUQrcA
+#EXTINF:-1 tvg-id="" tvg-name="RO: HIT MUSIC CHANNEL" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4CLeskFmTlOwx5dKFjA8qGkrXT_Vwr6-mSc2Sp8arny5WVtFWeBsFNIYQXcaLXPaQ.png" group-title="RO ✪ MUSIC",RO: HIT MUSIC CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArYVVyOU1wTHNjQkdBRGZlSUNsRjk3OWtUVTlnWGxoVEhNQjRrSTJkcnZYVw
+#EXTINF:-1 tvg-id="" tvg-name="RO: BALKANIKA TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH7xqHimGt40pmXwEFOBugtmBR2naQkiqPAmp0aNA0fv-9waQ46ieAUpTQWfL3fCxy8ktbs662ReC74Gdh2TEwlu0io04EUTWaUegV7ZzS-CvQmP9zG7Hov_pCPmBZloNQg.jpg" group-title="RO ✪ MUSIC",RO: BALKANIKA TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZTE5ZDFQNlBIT3dRTmdaYStZeDhVN1NTNDVYZU9NQXdlMGI4elRxQVJkZQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: MAGIC TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH0BTtjo2AbcFfGLipeZQyOIYI1-aay7aAZjLOITARF_1Q_uAV4m3Pl25HIvpviA3Fi2rD_FB4vjQkwQYtK8fsDlLIUIpbYjjlCs6YKf8RtLFDVY_XQRe0Yo9qM4UK3q1kw.png" group-title="RO ✪ MUSIC",RO: MAGIC TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWUJDODNWckZJNVNnQVRpYnkyejQ5dkpleDJzQmlMRHArVmFBWlpiSUxTWQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: MUSIC CHANNEL" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHzVTU3umyhSVJG08bYVR3qiPoCv4VTiyeUPI3FOqba0wncijq9DeUowX3obwk58iwydfVZCEGYC9ZRwouGenoVJP9Yhn5-ESlW0IoEVIVi6reByAQxtyiqQGXGBBbL1eOA.png" group-title="RO ✪ MUSIC",RO: MUSIC CHANNEL
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZHFKaVpqUVZSQVVMSEY1TWRzVVVQM2sydjRna0UzaDB4WXRKNFIyQWNXbg
+#EXTINF:-1 tvg-id="" tvg-name="RO: TARAF" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHziYQBGT7iXiqU9L-JChEwbBPKTmj9-J4lUFHAVLr1gS.png" group-title="RO ✪ MUSIC",RO: TARAF
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArUVoxOFRqNUZEcy9nKzRraEduUlRMVHE1Szd0ZUlZd01wUTVKa200OUNPVQ
+#EXTINF:-1 tvg-id="Favorit.TV.ro" tvg-name="RO: FAVORIT TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH97SjQBcsfaYkdRnlTInssHWkBjIDZ55RMfZ9KnPMoDe.png" group-title="RO ✪ MUSIC",RO: FAVORIT TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVEVjNVJlUlo1YUVyZy9yNU1yd3N2U280bWhjNlByRFpsT1ZabmJGWTJHNA
+#EXTINF:-1 tvg-id="Etno.TV.(HD).ro" tvg-name="RO: ETNO" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH_p6FzPU1t6FSL5FCMGsknOGlj9h8YOkyStCCdqQ9k16S_3r0aIi1ASOD7TcmhaykgBazS5rWQ6SS3FtRVpSZjclAtjReipbltHXCw1BjrB95XsYrPk155BbAF3HoFVosA.jpg" group-title="RO ✪ MUSIC",RO: ETNO
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWURmTit2c3F4eHhKbXhuVjdhRVJlNUg3VURZOGNhR2pwQ25zVkJpZ1NzTg
+#EXTINF:-1 tvg-id="" tvg-name="RO: TEZAUR TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAHwQRYmTbCGYEmK2I3G8dTSNo65u2nAa9NZexlL5oWfvX9y4DmsxNRtsM9Ks0IjluRO11Q9JOd1nfkYCLqfyOMB-fBQ16EZDFy4QvVvmmMIlayHCD1h6Oqq73Tgj9zl360w.jpg" group-title="RO ✪ MUSIC",RO: TEZAUR TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArVjBZcU4zUktmR01VWlBRRTJMNnliOERWUkVDOUdkSmNSV1NNUDRjTEh1bg
+#EXTINF:-1 tvg-id="" tvg-name="RO: HORA TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH0OkwQngSaqQ0pquCj0s4WrS6_NieWidH1np9xnYRBuD.png" group-title="RO ✪ MUSIC",RO: HORA TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZXdpSDFwOVpiTUxwaXViemFrT0RLb3NLZWpGelNjQzNqZGJHTFFjZHBwTQ
+#EXTINF:-1 tvg-id="" tvg-name="RO: STINGRAY ICONCERTS" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH0_eR9KXgnSNHzsWBlQkxsc3QGV_n7VQXXEtwc5e7e1cbAyY4mgQ5sD4ST6fpqH9fXhfhHgvsk1mAbTDO9-IunSzsjcSalexh3i8qqMIkWa3eOzA8NhpowZu1mmK-_EkQA.png" group-title="RO ✪ MUSIC",RO: STINGRAY ICONCERTS
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArZWVKbjVMSlpyTXFaZFV1TVNCdHlOL3RNSFp1WEJlVEpDQ0Ntd1lGVWlocw
+#EXTINF:-1 tvg-id="" tvg-name="RO: MDI TV" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH4kOnl9aOaFMHez_p4alXw5j1dd_2PXvuQbBtItSid4JZKvSsBEO_KHcWj4p_0r_hJ0yYBDOu75t_-KeJ_hHS5eHbp8IU29T45o9xvPsPZGj.jpg" group-title="RO ✪ MUSIC",RO: MDI TV
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWm1qdXJ0MGNLSis0cG9XeEsvaUh1L20wNXU3Z0VBOE9MVXpmUjhqVE1sZg
+#EXTINF:-1 tvg-id="" tvg-name="RO: MEGAMAX" tvg-logo="http://xc.contact/images/TnKuKbhNElDpbwZNh7pAH6FpQlo6w4RKnUdmF9ET7TKcyb9R_w-WnXfCThBejvBz.png" group-title="RO ✪ MUSIC",RO: MEGAMAX
+http://vipplus1.com:8080/N25pdUw5UWJIN0RJQm94S2greHArWHAvVkV3S1YxbzhvRERZVm56THVWZ2IrZGE2NDF6MWVCK2N2R25PbUtIbQ
+
+#EXTINF:-1,RO: COMEDY EST
+http://colaiptv.xyz:80/badboy86/badboy86/219636.ts
+#EXTINF:-1,RO: DAVINCI
+http://colaiptv.xyz:80/badboy86/badboy86/219638.ts
+#EXTINF:-1,RO: FILMCAFE
+http://colaiptv.xyz:80/badboy86/badboy86/219654.ts
+#EXTINF:-1,RO: HAPPY CHANNEL
+http://colaiptv.xyz:80/badboy86/badboy86/219656.ts
+#EXTINF:-1,RO: KANAL D
+http://colaiptv.xyz:80/badboy86/badboy86/219664.ts
+#EXTINF:-1,RO: MDI TV
+http://colaiptv.xyz:80/badboy86/badboy86/219666.ts
+#EXTINF:-1,RO: NICK TOONS
+http://colaiptv.xyz:80/badboy86/badboy86/219674.ts
+#EXTINF:-1,RO: PRO TV
+http://colaiptv.xyz:80/badboy86/badboy86/219682.ts
+#EXTINF:-1,RO: REALITATEA
+http://colaiptv.xyz:80/badboy86/badboy86/219685.ts
+#EXTINF:-1,RO: TARAF TV
+http://colaiptv.xyz:80/badboy86/badboy86/219687.ts
+#EXTINF:-1,RO: TVR Iasi
+http://colaiptv.xyz:80/badboy86/badboy86/219694.ts
+#EXTINF:-1,RO: VIASAT NATURE
+http://colaiptv.xyz:80/badboy86/badboy86/219699.ts
+#EXTINF:-1,RO: Favorit Tv
+http://colaiptv.xyz:80/badboy86/badboy86/219701.ts
+#EXTINF:-1,RO: B1
+http://colaiptv.xyz:80/badboy86/badboy86/219704.ts
+#EXTINF:-1,RO: Agro TV
+http://colaiptv.xyz:80/badboy86/badboy86/228765.ts
+#EXTINF:-1,RO: Alfa & Omega TV
+http://colaiptv.xyz:80/badboy86/badboy86/228766.ts
+#EXTINF:-1,RO: Alpha Media TV
+http://colaiptv.xyz:80/badboy86/badboy86/228767.ts
+#EXTINF:-1,RO: AMC
+http://colaiptv.xyz:80/badboy86/badboy86/228768.ts
+#EXTINF:-1,RO: ANIMAL World
+http://colaiptv.xyz:80/badboy86/badboy86/228769.ts
+#EXTINF:-1,RO: AXN Black
+http://colaiptv.xyz:80/badboy86/badboy86/228780.ts
+#EXTINF:-1,RO: AXN Romania
+http://colaiptv.xyz:80/badboy86/badboy86/228782.ts
+#EXTINF:-1,RO: AXN SPIN
+http://colaiptv.xyz:80/badboy86/badboy86/228783.ts
+#EXTINF:-1,RO: AXN White
+http://colaiptv.xyz:80/badboy86/badboy86/228784.ts
+#EXTINF:-1,RO: B1 Channel
+http://colaiptv.xyz:80/badboy86/badboy86/228785.ts
+#EXTINF:-1,RO: BBC EARTH
+http://colaiptv.xyz:80/badboy86/badboy86/228786.ts
+#EXTINF:-1,RO: Bollywood TV HD
+http://colaiptv.xyz:80/badboy86/badboy86/228789.ts
+#EXTINF:-1,RO: BOOMERANG
+http://colaiptv.xyz:80/badboy86/badboy86/228790.ts
+#EXTINF:-1,RO: BUCOVINA TV
+http://colaiptv.xyz:80/badboy86/badboy86/228791.ts
+#EXTINF:-1,RO: KANAL D2
+http://colaiptv.xyz:80/badboy86/badboy86/228792.ts
+#EXTINF:-1,RO: Cartoon Network
+http://colaiptv.xyz:80/badboy86/badboy86/228795.ts
+#EXTINF:-1,RO: CBS Reality
+http://colaiptv.xyz:80/badboy86/badboy86/228796.ts
+#EXTINF:-1,RO: CINEMARATON FHD
+http://colaiptv.xyz:80/badboy86/badboy86/228797.ts
+#EXTINF:-1,RO: Cinemax 2
+http://colaiptv.xyz:80/badboy86/badboy86/228799.ts
+#EXTINF:-1,RO: Cinemax 1
+http://colaiptv.xyz:80/badboy86/badboy86/228801.ts
+#EXTINF:-1,RO: CINETHRONIX
+http://colaiptv.xyz:80/badboy86/badboy86/228802.ts
+#EXTINF:-1,RO: Comedy Central
+http://colaiptv.xyz:80/badboy86/badboy86/228805.ts
+#EXTINF:-1,RO: CREDO TV
+http://colaiptv.xyz:80/badboy86/badboy86/228806.ts
+#EXTINF:-1,RO: Crime+ Investigation
+http://colaiptv.xyz:80/badboy86/badboy86/228807.ts
+#EXTINF:-1,RO: Da Vinci Kids
+http://colaiptv.xyz:80/badboy86/badboy86/228810.ts
+#EXTINF:-1,RO: DIGI 24
+http://colaiptv.xyz:80/badboy86/badboy86/228813.ts
+#EXTINF:-1,RO: Digi ANIMAL WORLD
+http://colaiptv.xyz:80/badboy86/badboy86/228815.ts
+#EXTINF:-1,RO: DIGI LIFE
+http://colaiptv.xyz:80/badboy86/badboy86/228817.ts
+#EXTINF:-1,RO: DIGI SPORT 2
+http://colaiptv.xyz:80/badboy86/badboy86/228820.ts
+#EXTINF:-1,RO: DIGI SPORT 3
+http://colaiptv.xyz:80/badboy86/badboy86/228822.ts
+#EXTINF:-1,RO: DIGI SPORT 4
+http://colaiptv.xyz:80/badboy86/badboy86/228824.ts
+#EXTINF:-1,RO: Digi World
+http://colaiptv.xyz:80/badboy86/badboy86/228826.ts
+#EXTINF:-1,RO: Discovery Channel
+http://colaiptv.xyz:80/badboy86/badboy86/228827.ts
+#EXTINF:-1,RO: Discovery Science
+http://colaiptv.xyz:80/badboy86/badboy86/228828.ts
+#EXTINF:-1,RO: Disney Channel
+http://colaiptv.xyz:80/badboy86/badboy86/228831.ts
+#EXTINF:-1,RO: Disney Jr
+http://colaiptv.xyz:80/badboy86/badboy86/228832.ts
+#EXTINF:-1,RO: DIVA Channel
+http://colaiptv.xyz:80/badboy86/badboy86/228833.ts
+#EXTINF:-1,RO: DOCUBOX
+http://colaiptv.xyz:80/badboy86/badboy86/228834.ts
+#EXTINF:-1,RO: DUCK TV
+http://colaiptv.xyz:80/badboy86/badboy86/228836.ts
+#EXTINF:-1,RO: E! FHD
+http://colaiptv.xyz:80/badboy86/badboy86/228837.ts
+#EXTINF:-1,RO: EPIC DRAMA
+http://colaiptv.xyz:80/badboy86/badboy86/228839.ts
+#EXTINF:-1,RO: ETNO
+http://colaiptv.xyz:80/badboy86/badboy86/228841.ts
+#EXTINF:-1,RO: EUROSPORT 1
+http://colaiptv.xyz:80/badboy86/badboy86/228843.ts
+#EXTINF:-1,RO: EUROSPORT 2
+http://colaiptv.xyz:80/badboy86/badboy86/228844.ts
+#EXTINF:-1,RO: Extreme Sports Channel
+http://colaiptv.xyz:80/badboy86/badboy86/228845.ts
+#EXTINF:-1,RO: FightBox
+http://colaiptv.xyz:80/badboy86/badboy86/228848.ts
+#EXTINF:-1,RO: FILM NOW
+http://colaiptv.xyz:80/badboy86/badboy86/228850.ts
+#EXTINF:-1,RO: FilmBox Premium
+http://colaiptv.xyz:80/badboy86/badboy86/228855.ts
+#EXTINF:-1,RO: Fishing & Hunting
+http://colaiptv.xyz:80/badboy86/badboy86/228858.ts
+#EXTINF:-1,RO: Food Network
+http://colaiptv.xyz:80/badboy86/badboy86/228859.ts
+#EXTINF:-1,RO: HBO 2
+http://colaiptv.xyz:80/badboy86/badboy86/228864.ts
+#EXTINF:-1,RO: HBO Romania
+http://colaiptv.xyz:80/badboy86/badboy86/228869.ts
+#EXTINF:-1,RO: TNT
+http://colaiptv.xyz:80/badboy86/badboy86/228870.ts
+#EXTINF:-1,RO: Hora TV
+http://colaiptv.xyz:80/badboy86/badboy86/228873.ts
+#EXTINF:-1,RO: Inter Media Tv
+http://colaiptv.xyz:80/badboy86/badboy86/228877.ts
+#EXTINF:-1,RO: Investigation Discovery
+http://colaiptv.xyz:80/badboy86/badboy86/228878.ts
+#EXTINF:-1,RO: JimJam
+http://colaiptv.xyz:80/badboy86/badboy86/228881.ts
+#EXTINF:-1,RO: Kiss TV
+http://colaiptv.xyz:80/badboy86/badboy86/228885.ts
+#EXTINF:-1,RO: Look Plus
+http://colaiptv.xyz:80/badboy86/badboy86/228888.ts
+#EXTINF:-1,RO: Prima Sport 3
+http://colaiptv.xyz:80/badboy86/badboy86/228890.ts
+#EXTINF:-1,RO: MINIMAX
+http://colaiptv.xyz:80/badboy86/badboy86/228897.ts
+#EXTINF:-1,RO: MTV Hits
+http://colaiptv.xyz:80/badboy86/badboy86/228907.ts
+#EXTINF:-1,RO: Music Channel
+http://colaiptv.xyz:80/badboy86/badboy86/228910.ts
+#EXTINF:-1,RO: N 24 PLUS
+http://colaiptv.xyz:80/badboy86/badboy86/228912.ts
+#EXTINF:-1,RO: Nasul TV
+http://colaiptv.xyz:80/badboy86/badboy86/228913.ts
+#EXTINF:-1,RO: National Geographic
+http://colaiptv.xyz:80/badboy86/badboy86/228914.ts
+#EXTINF:-1,RO: National Geographic Wild
+http://colaiptv.xyz:80/badboy86/badboy86/228915.ts
+#EXTINF:-1,RO: National 24 Plus
+http://colaiptv.xyz:80/badboy86/badboy86/228917.ts
+#EXTINF:-1,RO: National TV
+http://colaiptv.xyz:80/badboy86/badboy86/228918.ts
+#EXTINF:-1,RO: Nick Junior
+http://colaiptv.xyz:80/badboy86/badboy86/228921.ts
+#EXTINF:-1,RO: Nickelodeon
+http://colaiptv.xyz:80/badboy86/badboy86/228923.ts
+#EXTINF:-1,RO: PAPRIKA TV
+http://colaiptv.xyz:80/badboy86/badboy86/228924.ts
+#EXTINF:-1,RO: ACASA
+http://colaiptv.xyz:80/badboy86/badboy86/228927.ts
+#EXTINF:-1,RO: Pro Cinema
+http://colaiptv.xyz:80/badboy86/badboy86/228928.ts
+#EXTINF:-1,RO: ACASA GOLD
+http://colaiptv.xyz:80/badboy86/badboy86/228929.ts
+#EXTINF:-1,RO: Profit
+http://colaiptv.xyz:80/badboy86/badboy86/228936.ts
+#EXTINF:-1,RO: ROMANIA TV
+http://colaiptv.xyz:80/badboy86/badboy86/228945.ts
+#EXTINF:-1,RO: Speranta TV
+http://colaiptv.xyz:80/badboy86/badboy86/228948.ts
+#EXTINF:-1,RO: TELEKOM SPORT 1
+http://colaiptv.xyz:80/badboy86/badboy86/228958.ts
+#EXTINF:-1,RO: TELEKOM SPORT 3
+http://colaiptv.xyz:80/badboy86/badboy86/228960.ts
+#EXTINF:-1,RO: TELEKOM SPORT 4
+http://colaiptv.xyz:80/badboy86/badboy86/228961.ts
+#EXTINF:-1,RO: TLC
+http://colaiptv.xyz:80/badboy86/badboy86/228964.ts
+#EXTINF:-1,RO: TNT WB
+http://colaiptv.xyz:80/badboy86/badboy86/228965.ts
+#EXTINF:-1,RO: Travel Channel
+http://colaiptv.xyz:80/badboy86/badboy86/228966.ts
+#EXTINF:-1,RO: Travel MIX
+http://colaiptv.xyz:80/badboy86/badboy86/228967.ts
+#EXTINF:-1,RO: TRINITAS TV
+http://colaiptv.xyz:80/badboy86/badboy86/228968.ts
+#EXTINF:-1,RO: TV 1000
+http://colaiptv.xyz:80/badboy86/badboy86/228969.ts
+#EXTINF:-1,RO: TV Paprika
+http://colaiptv.xyz:80/badboy86/badboy86/228971.ts
+#EXTINF:-1,RO: Realitatea Plus
+http://colaiptv.xyz:80/badboy86/badboy86/228972.ts
+#EXTINF:-1,RO: TVR 2
+http://colaiptv.xyz:80/badboy86/badboy86/228976.ts
+#EXTINF:-1,RO: TVR 3
+http://colaiptv.xyz:80/badboy86/badboy86/228977.ts
+#EXTINF:-1,RO: TVR 1
+http://colaiptv.xyz:80/badboy86/badboy86/228980.ts
+#EXTINF:-1,RO: TVR Trei
+http://colaiptv.xyz:80/badboy86/badboy86/228981.ts
+#EXTINF:-1,RO: TVR International
+http://colaiptv.xyz:80/badboy86/badboy86/228984.ts
+#EXTINF:-1,RO: UTV
+http://colaiptv.xyz:80/badboy86/badboy86/228986.ts
+#EXTINF:-1,RO: VH1
+http://colaiptv.xyz:80/badboy86/badboy86/228987.ts
+#EXTINF:-1,RO: VIASAT EXPLORER
+http://colaiptv.xyz:80/badboy86/badboy86/228990.ts
+#EXTINF:-1,RO: VIASAT History
+http://colaiptv.xyz:80/badboy86/badboy86/228991.ts
+#EXTINF:-1,RO: ZU TV
+http://colaiptv.xyz:80/badboy86/badboy86/228996.ts
+#EXTINF:-1,RO: HBO 3
+http://colaiptv.xyz:80/badboy86/badboy86/515954.ts
+
+#EXTINF:-1,RO: COMEDY EST
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219636.ts
+#EXTINF:-1,RO: DAVINCI
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219638.ts
+#EXTINF:-1,RO: FILMCAFE
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219654.ts
+#EXTINF:-1,RO: HAPPY CHANNEL
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219656.ts
+#EXTINF:-1,RO: KANAL D
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219664.ts
+#EXTINF:-1,RO: MDI TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219666.ts
+#EXTINF:-1,RO: NICK TOONS
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219674.ts
+#EXTINF:-1,RO: PRO TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219682.ts
+#EXTINF:-1,RO: REALITATEA
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219685.ts
+#EXTINF:-1,RO: TARAF TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219687.ts
+#EXTINF:-1,RO: TVR Iasi
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219694.ts
+#EXTINF:-1,RO: VIASAT NATURE
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219699.ts
+#EXTINF:-1,RO: Favorit Tv
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219701.ts
+#EXTINF:-1,RO: B1
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/219704.ts
+#EXTINF:-1,RO: Agro TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228765.ts
+#EXTINF:-1,RO: Alfa & Omega TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228766.ts
+#EXTINF:-1,RO: Alpha Media TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228767.ts
+#EXTINF:-1,RO: AMC
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228768.ts
+#EXTINF:-1,RO: ANIMAL World
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228769.ts
+#EXTINF:-1,RO: AXN Black
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228780.ts
+#EXTINF:-1,RO: AXN Romania
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228782.ts
+#EXTINF:-1,RO: AXN SPIN
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228783.ts
+#EXTINF:-1,RO: AXN White
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228784.ts
+#EXTINF:-1,RO: B1 Channel
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228785.ts
+#EXTINF:-1,RO: BBC EARTH
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228786.ts
+#EXTINF:-1,RO: Bollywood TV HD
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228789.ts
+#EXTINF:-1,RO: BOOMERANG
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228790.ts
+#EXTINF:-1,RO: BUCOVINA TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228791.ts
+#EXTINF:-1,RO: KANAL D2
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228792.ts
+#EXTINF:-1,RO: Cartoon Network
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228795.ts
+#EXTINF:-1,RO: CBS Reality
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228796.ts
+#EXTINF:-1,RO: CINEMARATON FHD
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228797.ts
+#EXTINF:-1,RO: Cinemax 2
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228799.ts
+#EXTINF:-1,RO: Cinemax 1
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228801.ts
+#EXTINF:-1,RO: CINETHRONIX
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228802.ts
+#EXTINF:-1,RO: Comedy Central
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228805.ts
+#EXTINF:-1,RO: CREDO TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228806.ts
+#EXTINF:-1,RO: Crime+ Investigation
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228807.ts
+#EXTINF:-1,RO: Da Vinci Kids
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228810.ts
+#EXTINF:-1,RO: DIGI 24
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228813.ts
+#EXTINF:-1,RO: Digi ANIMAL WORLD
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228815.ts
+#EXTINF:-1,RO: DIGI LIFE
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228817.ts
+#EXTINF:-1,RO: DIGI SPORT 2
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228820.ts
+#EXTINF:-1,RO: DIGI SPORT 3
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228822.ts
+#EXTINF:-1,RO: DIGI SPORT 4
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228824.ts
+#EXTINF:-1,RO: Digi World
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228826.ts
+#EXTINF:-1,RO: Discovery Channel
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228827.ts
+#EXTINF:-1,RO: Discovery Science
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228828.ts
+#EXTINF:-1,RO: Disney Channel
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228831.ts
+#EXTINF:-1,RO: Disney Jr
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228832.ts
+#EXTINF:-1,RO: DIVA Channel
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228833.ts
+#EXTINF:-1,RO: DOCUBOX
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228834.ts
+#EXTINF:-1,RO: DUCK TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228836.ts
+#EXTINF:-1,RO: E! FHD
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228837.ts
+#EXTINF:-1,RO: EPIC DRAMA
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228839.ts
+#EXTINF:-1,RO: ETNO
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228841.ts
+#EXTINF:-1,RO: EUROSPORT 1
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228843.ts
+#EXTINF:-1,RO: EUROSPORT 2
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228844.ts
+#EXTINF:-1,RO: Extreme Sports Channel
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228845.ts
+#EXTINF:-1,RO: FightBox
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228848.ts
+#EXTINF:-1,RO: FILM NOW
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228850.ts
+#EXTINF:-1,RO: FilmBox Premium
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228855.ts
+#EXTINF:-1,RO: Fishing & Hunting
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228858.ts
+#EXTINF:-1,RO: Food Network
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228859.ts
+#EXTINF:-1,RO: HBO 2
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228864.ts
+#EXTINF:-1,RO: HBO Romania
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228869.ts
+#EXTINF:-1,RO: TNT
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228870.ts
+#EXTINF:-1,RO: Hora TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228873.ts
+#EXTINF:-1,RO: Inter Media Tv
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228877.ts
+#EXTINF:-1,RO: Investigation Discovery
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228878.ts
+#EXTINF:-1,RO: JimJam
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228881.ts
+#EXTINF:-1,RO: Kiss TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228885.ts
+#EXTINF:-1,RO: Look Plus
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228888.ts
+#EXTINF:-1,RO: Prima Sport 3
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228890.ts
+#EXTINF:-1,RO: MINIMAX
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228897.ts
+#EXTINF:-1,RO: MTV Hits
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228907.ts
+#EXTINF:-1,RO: Music Channel
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228910.ts
+#EXTINF:-1,RO: N 24 PLUS
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228912.ts
+#EXTINF:-1,RO: Nasul TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228913.ts
+#EXTINF:-1,RO: National Geographic
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228914.ts
+#EXTINF:-1,RO: National Geographic Wild
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228915.ts
+#EXTINF:-1,RO: National 24 Plus
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228917.ts
+#EXTINF:-1,RO: National TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228918.ts
+#EXTINF:-1,RO: Nick Junior
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228921.ts
+#EXTINF:-1,RO: Nickelodeon
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228923.ts
+#EXTINF:-1,RO: PAPRIKA TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228924.ts
+#EXTINF:-1,RO: ACASA
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228927.ts
+#EXTINF:-1,RO: Pro Cinema
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228928.ts
+#EXTINF:-1,RO: ACASA GOLD
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228929.ts
+#EXTINF:-1,RO: Profit
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228936.ts
+#EXTINF:-1,RO: ROMANIA TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228945.ts
+#EXTINF:-1,RO: Speranta TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228948.ts
+#EXTINF:-1,RO: TELEKOM SPORT 1
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228958.ts
+#EXTINF:-1,RO: TELEKOM SPORT 3
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228960.ts
+#EXTINF:-1,RO: TELEKOM SPORT 4
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228961.ts
+#EXTINF:-1,RO: TLC
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228964.ts
+#EXTINF:-1,RO: TNT WB
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228965.ts
+#EXTINF:-1,RO: Travel Channel
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228966.ts
+#EXTINF:-1,RO: Travel MIX
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228967.ts
+#EXTINF:-1,RO: TRINITAS TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228968.ts
+#EXTINF:-1,RO: TV 1000
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228969.ts
+#EXTINF:-1,RO: TV Paprika
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228971.ts
+#EXTINF:-1,RO: Realitatea Plus
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228972.ts
+#EXTINF:-1,RO: TVR 2
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228976.ts
+#EXTINF:-1,RO: TVR 3
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228977.ts
+#EXTINF:-1,RO: TVR 1
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228980.ts
+#EXTINF:-1,RO: TVR Trei
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228981.ts
+#EXTINF:-1,RO: TVR International
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228984.ts
+#EXTINF:-1,RO: UTV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228986.ts
+#EXTINF:-1,RO: VH1
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228987.ts
+#EXTINF:-1,RO: VIASAT EXPLORER
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228990.ts
+#EXTINF:-1,RO: VIASAT History
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228991.ts
+#EXTINF:-1,RO: ZU TV
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/228996.ts
+#EXTINF:-1,RO: HBO 3
+http://colaiptv.xyz:80/Chaos2024/Chaos2024/515954.ts
+
+#EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black Romania
+http://82.78.243.219:45739/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNCEE.es@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN CEE Romania
+http://82.78.243.219:45739/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.us@SD" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment",AXN White
+http://82.78.243.219:45739/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central
+http://82.78.243.219:45739/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Comedy",Comedy Play (720p)
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="News",Digi 24 (720p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",Digi Sport 1 HD
+http://91.201.172.14:35005
+
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",Digi Sport 2 HD
+http://91.201.172.14:35006
+
+#EXTINF:-1 tvg-id="DigiSport3.ro@HD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports",Digi Sport 3 HD
+http://82.78.243.219:45739/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",Digi Sport 4
+http://82.78.243.219:45739/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney Channel (576p)
+http://84.54.128.52:9090/play/3006/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
+http://82.78.243.219:45739/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Undefined",Exploris (576p) [Not 24/7]
+http://89.38.8.130:39419
+
+#EXTINF:-1 tvg-id="History.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History
+http://82.78.243.219:45739/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Music",Magic TV (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Lifestyle",MediCOOL TV (720p)
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Auto",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+
+#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
+http://82.78.243.219:45739/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="News",Observator News (720p)
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" group-title="News",Pro TV News (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Music",Super TV (1080i) [Not 24/7]
+https://live.supertv.ro/live/supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="General",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="General",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-logo="https://i.imgur.com/yHCuTap.png" group-title="General",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="General;Sports",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Zu TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Zu TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/165
+#EXTINF:-1 tvg-id="" tvg-name="RO: Viasat Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb_lPxHONfoxgFweieyi2UBOPYyjLxIsXXzpBKLUhN5DhTseM3&usqp=CAU" group-title="★ ROMANIA Channels ",RO: Viasat Nature
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/183
+#EXTINF:-1 tvg-id="" tvg-name="RO: UTV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: UTV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/152
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR International" tvg-logo="" group-title="★ ROMANIA Channels ",RO: TVR International
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/128
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 2" tvg-logo="" group-title="★ ROMANIA Channels ",RO: TVR 2
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/127
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 1" tvg-logo="" group-title="★ ROMANIA Channels ",RO: TVR 1
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/126
+#EXTINF:-1 tvg-id="" tvg-name="RO: Viasat Kino" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Viasat Kino
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/160
+#EXTINF:-1 tvg-id="" tvg-name="RO: Travel Channel" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Travel Channel
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/158
+#EXTINF:-1 tvg-id="" tvg-name="RO: Romania Tv" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Romania Tv
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/133
+#EXTINF:-1 tvg-id="" tvg-name="RO: Realitatea Plus" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Realitatea Plus
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/139
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO X" tvg-logo="" group-title="★ ROMANIA Channels ",RO: PRO X
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/157
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro TV International" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Pro TV International
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/136
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: PRO TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/134
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO Cinema" tvg-logo="" group-title="★ ROMANIA Channels ",RO: PRO Cinema
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/137
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO 2 (ACASA TV)" tvg-logo="" group-title="★ ROMANIA Channels ",RO: PRO 2 (ACASA TV)
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/135
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRIMA TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: PRIMA TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/162
+#EXTINF:-1 tvg-id="" tvg-name="RO: Nickelodeon" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Nickelodeon
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/173
+#EXTINF:-1 tvg-id="" tvg-name="RO: National TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: National TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/166
+#EXTINF:-1 tvg-id="" tvg-name="RO: National Geographic" tvg-logo="" group-title="★ ROMANIA Channels ",RO: National Geographic
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/180
+#EXTINF:-1 tvg-id="" tvg-name="RO: Nat Geo Wild" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="★ ROMANIA Channels ",RO: Nat Geo Wild
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/179
+#EXTINF:-1 tvg-id="" tvg-name="RO: Music Channel" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Music Channel
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/169
+#EXTINF:-1 tvg-id="" tvg-name="RO: MiniMax" tvg-logo="" group-title="★ ROMANIA Channels ",RO: MiniMax
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/176
+#EXTINF:-1 tvg-id="" tvg-name="RO: Kiss TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Kiss TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/168
+#EXTINF:-1 tvg-id="" tvg-name="RO: Kanal D" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Kanal D
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/155
+#EXTINF:-1 tvg-id="" tvg-name="RO: TLC" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_de.png" group-title="★ ROMANIA Channels ",RO: TLC
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/140
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO Romania" tvg-logo="" group-title="★ ROMANIA Channels ",RO: HBO Romania
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/143
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 3" tvg-logo="" group-title="★ ROMANIA Channels ",RO: HBO 3
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/145
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 2" tvg-logo="" group-title="★ ROMANIA Channels ",RO: HBO 2
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/144
+#EXTINF:-1 tvg-id="" tvg-name="RO: Happy Channel" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Happy Channel
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/163
+#EXTINF:-1 tvg-id="" tvg-name="RO: Fishing & Hunting" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Fishing & Hunting
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/170
+#EXTINF:-1 tvg-id="" tvg-name="RO: Film Now" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Film Now
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/130
+#EXTINF:-1 tvg-id="" tvg-name="RO: Film Cafe" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Film Cafe
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/149
+#EXTINF:-1 tvg-id="" tvg-name="RO: Favorit Tv" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Favorit Tv
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/156
+#EXTINF:-1 tvg-id="" tvg-name="RO: Etno" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Etno
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/167
+#EXTINF:-1 tvg-id="" tvg-name="RO: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ ROMANIA Channels ",RO: Disney Junior
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/175
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ ROMANIA Channels ",RO: Cartoon Network
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36272
+#EXTINF:-1 tvg-id="" tvg-name="RO: Food Network" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Food Network
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36273
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV Paprika " tvg-logo="" group-title="★ ROMANIA Channels ",RO: TV Paprika 
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36274
+#EXTINF:-1 tvg-id="" tvg-name="RO: DTX" tvg-logo="" group-title="★ ROMANIA Channels ",RO: DTX
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36276
+#EXTINF:-1 tvg-id="" tvg-name="RO: E! Entertainment " tvg-logo="" group-title="★ ROMANIA Channels ",RO: E! Entertainment 
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36277
+#EXTINF:-1 tvg-id="" tvg-name="RO: Viasat History" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Viasat History
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36278
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO Gold" tvg-logo="" group-title="★ ROMANIA Channels ",RO: PRO Gold
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36279
+#EXTINF:-1 tvg-id="" tvg-name="RO: Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="★ ROMANIA Channels ",RO: Discovery Channel
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36280
+#EXTINF:-1 tvg-id="" tvg-name="RO: Jim Jam" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Jim Jam
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36281
+#EXTINF:-1 tvg-id="" tvg-name="RO: Hora TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Hora TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36282
+#EXTINF:-1 tvg-id="" tvg-name="RO: Travel Mix " tvg-logo="" group-title="★ ROMANIA Channels ",RO: Travel Mix 
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36275
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN Spin" tvg-logo="" group-title="★ ROMANIA Channels ",RO: AXN Spin
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36538
+#EXTINF:-1 tvg-id="" tvg-name="RO: Crime & Investigation" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Crime & Investigation
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36539
+#EXTINF:-1 tvg-id="" tvg-name="RO: Discovery World" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Discovery World
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36540
+#EXTINF:-1 tvg-id="" tvg-name="RO: Investigation Discovery" tvg-logo="https://w7.pngwing.com/pngs/58/935/png-transparent-investigation-discovery-television-show-television-channel-logo-id-thumbnail.png" group-title="★ ROMANIA Channels ",RO: Investigation Discovery
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36541
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinethronix" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Cinethronix
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36542
+#EXTINF:-1 tvg-id="" tvg-name="RO: TRINITAS TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: TRINITAS TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36543
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Bollywood TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36544
+#EXTINF:-1 tvg-id="" tvg-name="RO: NickToons" tvg-logo="" group-title="★ ROMANIA Channels ",RO: NickToons
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36546
+#EXTINF:-1 tvg-id="" tvg-name="RO: Mooz " tvg-logo="" group-title="★ ROMANIA Channels ",RO: Mooz 
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36550
+#EXTINF:-1 tvg-id="" tvg-name="RO: Viasat Explore" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Viasat Explore
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36551
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI ANIMAL WORLD " tvg-logo="" group-title="★ ROMANIA Channels ",RO: DIGI ANIMAL WORLD 
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36552
+#EXTINF:-1 tvg-id="" tvg-name="RO: SPERANTA TV" tvg-logo="" group-title="★ ROMANIA Channels ",RO: SPERANTA TV
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/36553
+#EXTINF:-1 tvg-id="" tvg-name="RO: Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="★ ROMANIA Channels ",RO: Discovery Science
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/164
+#EXTINF:-1 tvg-id="" tvg-name="RO: History Channel" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="★ ROMANIA Channels ",RO: History Channel
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/177
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi World" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Digi World
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/178
+#EXTINF:-1 tvg-id="" tvg-name="RO: Epic Drama" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Epic Drama
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/131
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi 24" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Digi 24
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/129
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax 2" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Cinemax 2
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/142
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Cinemax
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/141
+#EXTINF:-1 tvg-id="" tvg-name="RO: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ ROMANIA Channels ",RO: Boomerang
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/171
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN White" tvg-logo="" group-title="★ ROMANIA Channels ",RO: AXN White
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/148
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle-thumbnail.png" group-title="★ ROMANIA Channels ",RO: AXN
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/147
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena Stars" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Antena Stars
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/153
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 3" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Antena 3
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/151
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 1" tvg-logo="" group-title="★ ROMANIA Channels ",RO: Antena 1
+http://localiptv.site:80/DiogenHtechniken/UeWhsH38Bdwjp/150
+
